@@ -1,0 +1,54 @@
+■MAX의 경우
+
+노말맵
+-LOW 폴리곤을 하이 폴리곤으로 보이게 함
+
+bump->normal bump에 노말맵을 넣으면 입체감이 살아보이게 만들어준다
+
+zplug in-> decimation 퍼센트를 잡아준다(20%정도가 적절)
+->proprocess current->decimation current
+(잘 됐는지 확인하는 방법은 뭔가 보랏빛 검은색으로 뜨면 된거임)
+
+->GOz를 해서 맥스로 넘겨준다(이때 맥스에 맵핑이 된 
+로우 폴리곤(지브러쉬 원본)이 max창에 띄어져있어야 한다
+
+low폴리곤 선택 Rendering->Render to text->pick눌러 high 폴리곤 선택
+(Mapping coofinates 두개 전부 맨위의 것 선택)
+->UV위에 projection생김 케이지(파란색 망)생김
+->projection에서 케이지 크기 조절해서 하이폴리곤 덮어씌우게 함
+->output에서 add->normal map->1024x1024
+->render으로 케이지가 하이폴리곤을 잘 감쌌나 확인(잘 감싸지 않으면
+붉은색으로 표시가 남)
+->경로지정(저장됨)
+->bump->normal bump->위에것 클릭 bitmap 넣음
+->맵 최상위 값으로 올리고 그 옆의 체크맵 아이콘 오른쪽 클릭해서
+파란 체크맵(render한 모양을 3dmax에 띄워주는 것)선택
+
+
+*손을 노말맵 만들때 어떻게 해도 붉은게 나올때가 있는데 포토샵으로 조정한다
+
+*AO맵 추출법
+-맨탈레이일때만 가능
+->노말맵하듯이하면 된다(option에서 normal이 아닌 AO맵 선택하면 됨)
+-diffuse map에 AO맵에 넣기(맵핑 잘 못하는 사람들이 명암을 잡을 설계도로 쓰기 좋음)
+-그냥 하면 너무 희기만 하니 sample과 spread조정하기
+
+
+complete map-실사를 사용할때 좋다
+
+■ZBRUSH의 경우
+
+지브러시 노말맵 추출법:
+divide를 1로 내리고 오른쪽의 노말맵 목록에서 오른쪽에 있는 항목 모두 선택하고 클릭
+
+clone normal map 클릭하고 왼쪽에 복사되는 노말맵을 저장(영문으로만 저장이 되며 jpg로)
+
+A.O맵 추출-> divede 다시 최상으로 올림 ->Masking->mask by AO->수치픞 높이면 높일수록 퀄리티 높아짐
+->mask ambien occlusion 클릭->목록의 texture map->new from masking->clone text->위와같이 복사
+
+
+tip= max에서 가져온건 3d make poly 누르면 안됨
+
+
+
+두개 다 노말맵 AO맵 추출뒤 잘된걸 섞어서 쓰는 방식을 많이 사용
