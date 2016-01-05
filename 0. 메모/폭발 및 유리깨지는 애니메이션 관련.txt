@@ -1,0 +1,10 @@
+create-shapes-spline-line으로 잘라주고
+모든 라인을 선택한 뒤 Modify탭에서 extrude 명령을 준다.
+그리고 Amount 수치를 주어서 그림처럼 line들을 면으로 만들어주고
+grate-Geometry-Compound object-procutter를 클릭
+
+pick cutter object를 클릭해 칼이 될 선들을 선택해주고
+pick stock object로 자를 물체를 클릭
+
+stock outside cutter
+stock inside cutter 둘다 체크하면 조각남
