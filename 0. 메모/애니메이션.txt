@@ -1,0 +1,18 @@
+■dummy
+
+1)시선 애니메이션(Look at Constraints-주시 애니메이션)
+=더미를 움직임에 따라 물체가 그쪽을 바라보게 하는것
+
+->dummy를 만들어주고 더미를 바라볼 물체를 클릭
+->메뉴바의 animation->constraints->LookAt Constraint
+클릭후 더미 클릭
+->Motion 탭에서 lookAt Constraints 롤 아웃의 select lookat axis:에서 z축으로 설정
+
+(select and link(도형과 도형의 움직임을 이어주는 것(포함의 개념))는 드래그 해서 선택하는것)
+
+2)움직임 애니메이션(Link Constraints:구속 애니메이션)
+(좀더 자세히 알아보기)
+=프레임에 따라 그떄그댸 다른 오브젝트에 구속시키는 애니메이션
+
+ex)로봇팔로 공을 집는 애니메이션
+적절한 프레임에 공을 선택하고 animation-> constraints->link constraints를 사용해 구속하고 싶은 오브젝트에 구속시키는것
