@@ -1,0 +1,3 @@
+rendering->rendering setup -> time output항목
+active time segment 클릭->render output에서
+파일이름 지정후 render클릭
