@@ -1,0 +1,26 @@
+★birth는 시작 프레임과 종료 프레임 사이 생기는 입자수를 의미함
+★display는 창에서 보이는 모양을 나타내며 색도 지정할 수 있다.
+★delete는 파티클이 사라지는 시기를 종료해주며 life span는 생명력이다.
+★position object는 파티클을 형성할 도형을 선택해주는 역할을 한다
+
+★PF source에서 viewport로 particle이 보이는 정도로 조절하고
+★shape로 파티클 입자의 크기를 조절한다.
+
+★그리고 원래있던 오브젝트를 렌더링 할때 보이지 않게 하려면
+  object properties->renderable을 해제하면 된다
+
+★collision은 충돌하는 효과로 deflector를 만들어 파티클과 충돌하는 효과를 준다.
+
+★force는 파티클에 적용되는 효과를 의미한다
+(wind-
+turbulance-진로를 임의로 바꿔줌
+frequency-turbulance가 주기적으로 변함
+scale-turbulance 효과의 크기 설정)
+
+★material dynamic는 파티클에 재질을 입혀주는 기능으로
+material editor창에 설정한 재질을 끌어와서 사용 가능
+
+★rendering-effect에서 rendering에서 여러 효과를 넣어줄 수 있다.
+	-★lens effects(발광효과)
+tip-material editor창에 지정해줬던 ID와 material ID가 같아야 효과를 볼 수 있다.
+(self-illumination 수치 100, Material effects channel을 1로 바꿈)
