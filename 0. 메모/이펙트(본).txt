@@ -24,3 +24,16 @@ material editor창에 설정한 재질을 끌어와서 사용 가능
 	-★lens effects(발광효과)
 tip-material editor창에 지정해줬던 ID와 material ID가 같아야 효과를 볼 수 있다.
 (self-illumination 수치 100, Material effects channel을 1로 바꿈)
+
+★speed by surface-파티클의 속도를 조절해주는 역활
+speed-시스템 파티클의 속도(음수면 반대반향으로 움직인다)
+variation-속도가 다양한 정도
+divergence-발산, 퍼지는 정도
+
+★spawn-파티클 주변에 파티클이 생성되는 효과(움직이는 파티클에 다시 파티클이 생긴다 생각하면 된다)
+by travel distance-기존의 파티클 경로에 따라 일정한 간격으로 파티클이 생성된다
+step size-기존의 파티클이 이 수치만큼 움직일때마다 파티클이 생성된다
+inherited-spawn으로 생성된 파트클의 속도를 퍼센트로 나타낸것이며 음수면 반대방향으로 간다.★★
+(수치에 따라 파티클을 따라가는 파티클을 만들 수 있다)★★★★
+variation-속도가 다양한 정도
+divergence-발산, 퍼지는 정도
