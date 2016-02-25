@@ -36,4 +36,10 @@ step size-기존의 파티클이 이 수치만큼 움직일때마다 파티클이 생성된다
 inherited-spawn으로 생성된 파트클의 속도를 퍼센트로 나타낸것이며 음수면 반대방향으로 간다.★★
 (수치에 따라 파티클을 따라가는 파티클을 만들 수 있다)★★★★
 variation-속도가 다양한 정도
+
+tip-두개를 spawn할때 이상하게 나오는 경우가 있는데 speed by surface의 영향때문이므로
+새로생긴 오브젝트도 speed by surface에 넣어준다.
 divergence-발산, 퍼지는 정도
+
+★material editor->diffuse color->particle age라는 맵핑 효과가 있는데
+시간이 지날수록 색이 바뀌는 효과이다(채널 바꾸는것 명심)
