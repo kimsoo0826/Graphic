@@ -65,3 +65,9 @@ tip-두개를 spawn할때 이상하게 나오는 경우가 있는데 speed by surface의 영향때문이
 ★rotate를 speed space follow로 바꾸면 이동하는 방향으로 particle의 방향을 지속적으로 바꾸는 옵션으로
 그냥 파티클 모양을 돌려주는 역활이다(random 3D는 랜덤한 모양이다,)
 
+★Find Target는 지정된 물체에 파티클을 보내는 명령어
+	Use cruise Speed-속도를 직접 제어할 수 있게 해줌
+	speed-파티클의 속도 조절
+	accel limit-가속 한도를 설정함, 파티클의 관성과 속도에 영향을 줌
+	Ease In % -파티클이 목표물에 접근할때 느려지는 비율
+
