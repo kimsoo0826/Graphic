@@ -18,10 +18,17 @@
 ★collision은 충돌하는 효과로 deflector를 만들어 파티클과 충돌하는 효과를 준다.
 
 ★force는 파티클에 적용되는 효과를 의미한다
-(	wind-
+(	wind-바람의 효과
+		spherical-바람의 모양이 원형으로 바꿔서 스파이럴은 만들 수 있다.
+		strength-
 		turbulance-진로를 임의로 바꿔줌
 		frequency-turbulance가 주기적으로 변함
-		scale-turbulance 효과의 크기 설정)
+		scale-turbulance 효과의 크기 설정
+	drag-파티클의 움직임을 제어하여 감쇠시키는 기능(ex)바람의 저항)
+		time on-시작 시간
+		time off-종료 시간
+		
+)
 
 ★material dynamic는 파티클에 재질을 입혀주는 기능으로
 material editor창에 설정한 재질을 끌어와서 사용 가능
