@@ -1,0 +1,29 @@
+★다른 파일의 그림 복사할때
+이동 툴 클릭 후 꽃그림을 shift누른 상태에서 드래그 하여 끌어가면 복사가 됨
+
+★배경의 사이즈를 늘려주거나 줄여주고 싶을때
+image-canvas size에 들어가서 조정
+
+★매직봉의 안에 있는 빠른 선택 툴 유용함
+
+★Image의 mode에 있는 grayscale은 그림을 흑백으로
+만들어주고 duotone는 거기에 색을 입혀준다.
+
+★level=이미지 밝기
+curves=이미지의 명암 대비
+brightness/contrast=이미지 밝기와 명암 대비
+hue/saturation=이미지 색상과 채도
+color balance=이미지 색상 균형 조정
+varation=미리보기 가능
+photo filter= 색의 온도를 조정해준다
+invert=색상 반전시키기
+posterize=포스터 이미지 만들기
+threshold=판화느낌
+equalize=이미지 밝기 평균화
+replace color=선택된 색 바꾸기
+
+★healing brush tool은 잡티제거에 쓰임
+
+★content-aware move tool은 선택 영역을
+원하는곳으로 드래그 하고 빈 공간이 자동으로
+채워지는 효과
