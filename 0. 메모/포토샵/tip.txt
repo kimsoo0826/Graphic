@@ -27,3 +27,51 @@ replace color=선택된 색 바꾸기
 ★content-aware move tool은 선택 영역을
 원하는곳으로 드래그 하고 빈 공간이 자동으로
 채워지는 효과
+
+★filter-distort-ripple로 물에 비친 모습과 같은 효과를 줄 수 있다.
+
+★ctrl+T 누른후 마우스 오른쪽 클릭 perspective누르면 이미지를 변형해줄 수 있다.
+(사각형->사다리꼴 같이 원근감있게)
+
+★Layer style
+1)Blending option:불투명도와 fill 조절
+2)Bevel&emboss 레이어의 그림자를 만들어서 입체감 있게 만듬
+3)stroke:레이어 외각에 선을 만들어줌
+4)inner shadow: 레이어 안쪽에 그림자를 만듬
+5)inner glow: 레이어 안쪽으로 퍼지는 후광을 만들어줌
+6)Satin:레이어에 금속 광택 만듬
+7)color overlay 레이어에 선택한 색상으로 색 채워줌
+8)gradient overlay 레이어를 그라데이션으로 채워줌(그림그릴때 유용할듯)
+9)pattern overlay 레이어를 패턴으로 채워줌
+10)outer glow 바깥쪽 후광 만들어줌
+11)drop shadow 레이어에 그림자 만들어줌
+
+★blending mode
+1)normal 표준모드
+2)dissolve
+3)darken
+4)multiply
+5)color burn
+6)linear burn
+7)barker burn
+8)lighten
+9)screen
+10)color dodge
+11)linear dodge
+12)iughter dodge
+13)overlay
+14)soft light
+15)hard light
+16)vivid light
+17)linear light
+18)pin light
+19)hard mix
+20)difference
+21)exclusion
+22)subtract
+23)divide
+24)hue
+25)saturation
+26)color
+27)luminosity
+
