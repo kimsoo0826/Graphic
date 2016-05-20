@@ -48,30 +48,39 @@ replace color=선택된 색 바꾸기
 
 ★blending mode
 1)normal 표준모드
-2)dissolve
-3)darken
-4)multiply
-5)color burn
-6)linear burn
-7)barker burn
-8)lighten
-9)screen
-10)color dodge
-11)linear dodge
-12)iughter dodge
-13)overlay
-14)soft light
-15)hard light
-16)vivid light
-17)linear light
-18)pin light
-19)hard mix
-20)difference
-21)exclusion
-22)subtract
-23)divide
-24)hue
-25)saturation
-26)color
-27)luminosity
+2)dissolve 무작위로 픽셀을 흩어놓은듯 합성
+4)multiply 두 레이어를 겹쳐서 어둡게 만듬
+5)color burn multiply보다 색상이 더 진하게 혼합
+6)linear burn color burn 보다 진하게 혼합
+10)color dodge 색상을 혼합하여 이미지 밝게 만듬
+11)linear dodge 이미지 모든 부분 밝게
+13)overlay 어두운 부분에는 multiply 밝은 부분에 screen효과
+14)soft light 이미지 부드럽게 혼합
+15)hard light 이미지 강하게 혼합
+19)hard mix 포스터 리제이션 효과
+20)difference 두 레이어를 비교해 같은색은 검은색으로 바꾸고
+다른색은 반전
+21)exclusion difference보다 명함대비 낮음
+22)subtract 같은 색상 어둡게 나머지 혼합
+23)divide 같은 색상 밝게 나머지 혼합
+24)hue  하위 에리어의 밝기와 채도를 유지하면서 상위레이어의 색상 혼합
 
+
+★글자 쓰고 투명하게 한 뒤에 앰보싱과 후광효과
+주면 아래 래이어의 색에서 글자가 튀어나온듯한 효과
+가능
+
+★레이어를 alt누른 상태로 클릭하면 클리핑 마스크가 된다.
+
+
+★filter
+unsharp mask-이미지를 선명하게 해주는 대표적 필터
+reduce noise- 셩계선의 디테일을 뭉개지 않으면서 노이즈만 감소
+gaussian blur-이미지를 흐리게 만드는 대표적 필터로
+흐리게 하고싶은 영역을 선택하고 쓰면 좋다.
+field blur-원하는 위치에서 뒤쪽으로 blur해 주는 효과
+iris blur-원하는 지정 이외에 blur 해줌
+oil paint-유화 느낌을 만들어주는 필터
+filter gellery- 여러가지 필터를 혼합하여 적용해줄 수 있는 효과
+liquify- 왜곡 툴로 이미지 변형 가능
+vanishing point- 원근감을 이용한 도장 툴
