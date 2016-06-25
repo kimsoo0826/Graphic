@@ -1,0 +1,4 @@
+material edit에 self Illumination에 값을 주면
+자체발광한다(100)
+
+extended paramaters에 additive를 준다

@@ -1,0 +1,73 @@
+■파티클 시스템
+
+1)Super Spray
+:강력하게 분사하는 효과를 주는 파티클 시스템으로 연기나, 불 등 많은 부분에 사용.
+(입에서 불을 뿜을때 select and link로 입가에 붙이고 사용되거나 함)
+
+basic parameters->view display->mesh
+particle generation항목을 조절하여 사용
+( Variation: 불규칙적 효과를 줘서 자연스럽게 만듬
+  Life:파티클이 사라지지 않고 남아있는 시간)
+
+
+particle type->standard particles설정->Facing
+
+파티클 매핑->material editor->gradient->gradient type을 radial로 Nosie항목에서 Turbulence로 변경
+size 설정->opacity로 복사->shader basic parameters 롤아웃에서 face map으로 변경, blinn basic paramters 롤아웃의
+opacity를 0으로 maps 롤아웃의 opacity amount를 10으로 설정
+
+색은 원하는대로 입히면 바뀌고 color 2 position을 0.8.로 설정
+
+facing에 맵핑하는 경우
+face Map 클릭해야 플랜트 하나하나에 맵핑이 된다
+gradient ramp에서 연기를 한다고 하면 노말이
+아니라 라디안을 넣고 왼쪽이 흰색 오른쪽이 검게 만들면
+좋게 나온다.
+
+
+TIP)partivle type
+ -metaParticles -끈쩍끈쩍한 느낌(물같은 느낌)
+ -Instanced geometry- pick으로 지정된 물체를 떨어트릴
+수 있다
+
+
+2)PArry
+오브젝트에서 파티클이 방출되는 효과.(무언가가 폭발에 파편이 날아가는듯한 효과로 쓰임)
+
+pick object로 물체 선택->viewport display항목에서 mesh설정->
+particle generation에서 속도조절(variation값주면 자연스러워짐)
+->particle type 롤아웃에서 object fragments로 변경 뒤 object fragment controls항목에서
+thickness를 40number of chunks를 30으로 설정
+->rotation and collison 롤아웃의 spin speed controls항목에서 spin time:30, Variation:20로 설정
+
+이 이후 원래 오브젝트를 하이드로 숨기면 폭발하는 애니메이션 완료
+
+파티클 매핑: particle type 롤아웃의 Mat'l Mapping and Source 항목에서 Picked Emitter를 설정하고
+get meterial from 클릭하면 파편에도 이미지가 적용된다.
+
+tip:particle 클릭 후 object properties를 선택. motion blur항목에서 object를 클릭하면
+랜더링에서 훨씬 더 자연스러운 장면이 연출된다.
+
+3)폭발,연기,안개 등등 배경 이펙트
+
+create->helper->atmospheric apparatus에서 <sphereGizmo>생성
+->메뉴바 rendering에서 environment and effect클릭-> atmosphere롤아웃에서 fire effect추가
+->pick gizmo버튼 클릭후 적용시킬 gizmo 선택->랜더링 확인하며 조절하며 맞춤
+
+(폭발 이펙트는 아래에 explosion이라는 효과가 있는데 적용시키면 폭발 후 연기 효과까지 만들어 줄 수 있다)
+
+4)bind to space wraps(사슬 옆에 있는 아이콘)
+물리적 시뮬레이션을 가능하게 해줌(ex-중력,충돌계산)
+
+create->space warps->forces->gravity를 클릭하고 만들어줌-> bind to space wrap으로 particle 드래그 앤 드롭
+->그러면 중력이 작용하여 파티클이 바닥으로 떨어지게 된다. 마찬가지로 create->space warps->deflectorsd에서
+deflectors버튼을 클릭하여 판자를 만들고 중력과 마찬가지로 bind to space wrap으로 particle적용해주면
+판자에 막혀 튀기는 애니메이션이 만들어진다
+
+5)*blizzard가 snow와 spray대신 많이 쓰임
+mesh로 설정하고 모양은 거의 facing과 sphere을 많이 쓴다.
+
+6)pcloud
+-파티클을 공간에 만든다.
+pick object를 사용하면 클릭한 오브젝트 안에
+파티클을 만들 수 있다.

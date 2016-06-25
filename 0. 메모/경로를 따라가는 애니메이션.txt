@@ -1,0 +1,6 @@
+■선 따라 움직이는 애니메이션
+
+line으로 경로를 그린 뒤 따라가게 하고 싶은 도형을 선택하고 메뉴바의 animation->Constraints->Path constraint를
+선택하면 선의 처음부터 끝까지 이동하는 애니메이션이 만들어진다.
+
+하지만 선의 방향에 따라 움직일때 모양이 이상한데(이상한 곳을 향하고 있다) path paramaters의 롤 아웃에서 path option에 있는 follow를 체크해 주소 axis에서 축을 z로 바꾸면 됩니다.

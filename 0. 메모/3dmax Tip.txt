@@ -1,0 +1,25 @@
+*3d max  목록에서 hide를 누르면 잠깐 보이지않는 상태가 된다 다시 보이게 하려면 unhide를 누르면 된다.
+게임 데이터에는 입안이 없는게 낫다.(애니메이션에는 있는게 좋다
+
+*create-geometry-compund object-proboolean
+-><start picking>을 누르면
+겹쳐진것이 삭제됨
+
+*create-geometry-compund object-scatter
+
+클릭한 도형을 다른 도형에 붙일때 사용하는 기능
+
+*align는 정렬이라는 뜻으로 서로의 오브젝트를 겹칠때 사용
+
+*proBoolean->union하면 깔끔하게 합쳐짐
+->mesh smooth를 쓰면 접촉면이 깔끔해진다.
+
+*melt-녹아버리는 효과
+
+*constrain
+-딱딱한 물체가 겹쳐질때 연결시켜주는 역할
+parent-부모
+child-자식
+
+*helix->enable in renderer와 enable in viewport체크
+(extrude로도 뽑을 수 있다)

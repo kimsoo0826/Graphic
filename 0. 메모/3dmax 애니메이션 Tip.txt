@@ -1,0 +1,42 @@
+*display- trajectory를 누르면 애니메이션의 동선을 알 수 있다
+
+*dope sheet를 보면 각각의 물체의 로테이션이나
+움직임을 프레임단위로 제어할 수 있다
+
+*auto오른쪽 아래 그래프 모양 키(중요)
+등속도와 가속도 주의
+가속도는 프레임마다 맞춰줘야하며
+프레임 정한값들 사이의 값은 등속도가 되어버린다
+
+*filter는 열쇠와 다르게 선택한 부분(로테이션이나 움직임)
+만 키로 저장할 수 있다
+
+*Curve editor 첫번째는 원래모양으로 돌리는 것이며
+그걸 클릭후 가속도나 감속 시키고 싶은 곳을
+클릭한 후 그래프를 바꾸면 좋다
+
+
+*점점 사라지는 효과
+알파는 흑과 백에 의해 나타나고 안나타는걸 이용
+Material editor->gradient ramp->unwrap UVW->Reset peel
+->오른쪽 위의 align vertical, horizontal로 조절
+(꾹 누르면 전체 조절하는 아이콘도 나옴)
+
+*schematic view에서 부모 자식간의 링크를 확인해 줄 수 있다.
+
+*dummy가 3개 이상 엮어지면 애니메이션 하는 물체가
+찌그러지는 현상이 나타날수도있다. 이 점 유의하자
+
+*motion->key info
+set sliding key- 피벗을 바닥에 맞춰준다.
+set free key- 피벗을 해제해준다
+
+*bend link-> twist link mode로 자연스럽게 척추가 돌아가도록 해줌
+
+*layer(중요)-각각 파트 애니메이션 조절
+
+*사람 애니메이션을 줄 때 척추나 머리에 시간차를 주면 좋다.
+(바운싱 작업)
+
+*track selection에 symmetrical을 클릭하면
+반대쪽의 바이패드도 같이 선택된다

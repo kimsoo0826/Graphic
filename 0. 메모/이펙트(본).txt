@@ -1,0 +1,80 @@
+★birth는 시작 프레임과 종료 프레임 사이 생기는 입자수를 의미함
+★display는 창에서 보이는 모양을 나타내며 색도 지정할 수 있다.
+	-type을 geometry라고 설정하면 파티클이 shape에 지정해준 형태로 나온다.
+
+★delete는 파티클이 사라지는 시기를 종료해주며 life span는 생명력이다.
+
+★position object는 파티클을 형성할 도형을 선택해주는 역할을 한다
+	location하위에 selected faces를 선택하면 오브젝트의 선택된 면에서만 파티클이 나온다
+	(오브젝트에 에디트 폴리한 후 면을 선택하고 선택 그러면 그 면에서만 파티클이 나온다-	
+	개수는 birth에서 정할 수 있다)
+
+★PF source에서 viewport로 particle이 보이는 정도로 조절하고
+★shape로 파티클 입자의 크기와 모양을 조절한다.
+
+★그리고 원래있던 오브젝트를 렌더링 할때 보이지 않게 하려면
+  object properties->renderable을 해제하면 된다
+
+★collision은 충돌하는 효과로 deflector를 만들어 파티클과 충돌하는 효과를 준다.
+
+★force는 파티클에 적용되는 효과를 의미한다
+(	wind-바람의 효과
+		spherical-바람의 모양이 원형으로 바꿔서 스파이럴은 만들 수 있다.
+		strength-
+		turbulance-진로를 임의로 바꿔줌
+		frequency-turbulance가 주기적으로 변함
+		scale-turbulance 효과의 크기 설정
+	drag-파티클의 움직임을 제어하여 감쇠시키는 기능(ex)바람의 저항)
+		time on-시작 시간
+		time off-종료 시간
+		
+)
+
+★material dynamic는 파티클에 재질을 입혀주는 기능으로
+material editor창에 설정한 재질을 끌어와서 사용 가능
+
+★rendering-effect에서 rendering에서 여러 효과를 넣어줄 수 있다.
+	-★lens effects(발광효과)
+
+tip-material editor창에 지정해줬던 ID와 material ID가 같아야 효과를 볼 수 있다.
+(self-illumination 수치 100, Material effects channel을 1로 바꿈)
+
+★speed by surface-파티클의 속도를 조절해주는 역활
+	speed-시스템 파티클의 속도(음수면 반대반향으로 움직인다)
+	variation-속도가 다양한 정도
+	divergence-발산, 퍼지는 정도
+
+★spawn-파티클 주변에 파티클이 생성되는 효과(움직이는 파티클에 다시 파티클이 생긴다 생각하면 된다)
+	by travel distance-기존의 파티클 경로에 따라 일정한 간격으로 파티클이 생성된다
+	step size-기존의 파티클이 이 수치만큼 움직일때마다 파티클이 생성된다
+	inherited-spawn으로 생성된 파트클의 속도를 퍼센트로 나타낸것이며 음수면 반대방향으로 간다.★★
+	(수치에 따라 파티클을 따라가는 파티클을 만들 수 있다)★★★★
+	variation-속도가 다양한 정도
+	divergence-발산, 퍼지는 정도
+
+tip-두개를 spawn할때 이상하게 나오는 경우가 있는데 speed by surface의 영향때문이므로
+새로생긴 오브젝트도 speed by surface에 넣어준다.
+
+
+★collision spawn-하나이상의 deflector와 충돌해서 새로운 파티클을 만드는 것
+	offspring-충돌하고 산란할때 생기는 파티클의 개수
+	divergence-발산, 퍼지는 정도
+	
+
+★material editor->diffuse color->particle age라는 맵핑 효과가 있는데
+시간이 지날수록 색이 바뀌는 효과이다(채널 바꾸는것 명심)
+
+★speed에서 direction에 along icon arrow에 설정하면 파티클은 icon의 화살표 방향으로 움직이게 된다
+(rotate으로 방향조절 가능)
+
+★scale은 말그대로 파티클의 크기를 조절해주는 역활
+
+★rotate를 speed space follow로 바꾸면 이동하는 방향으로 particle의 방향을 지속적으로 바꾸는 옵션으로
+그냥 파티클 모양을 돌려주는 역활이다(random 3D는 랜덤한 모양이다,)
+
+★Find Target는 지정된 물체에 파티클을 보내는 명령어
+	Use cruise Speed-속도를 직접 제어할 수 있게 해줌
+	speed-파티클의 속도 조절
+	accel limit-가속 한도를 설정함, 파티클의 관성과 속도에 영향을 줌
+	Ease In % -파티클이 목표물에 접근할때 느려지는 비율
+
