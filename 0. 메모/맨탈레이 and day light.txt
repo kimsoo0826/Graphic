@@ -1,0 +1,38 @@
+
+멘탈레이(실사느낌 랜더링)
+랜더링을 점으로 그린다.
+오브젝트에 재질을 넣어주고 조명을 받을때
+주로 쓰인다.(ARCH&DESIGN)
+
+skylight-하늘에 조명을 주는 효과(조명 standard에 있음)
+mr sky portal- 면 모양의 조명으로 skylight의 빛의
+각도와 위치를 조절해주는 역할을 한다.
+
+create-system-daylight
+
+mrsun:태양이 생겨난다.
+mr sky:하늘이 생겨난다
+
+mr sky advanced에서 수평선을 조절할 수 있다.
+
+montion에 가서 time으로 태양의 위치를 조절해 줄 수 있으며
+이를 이용에 쉽게 애니메이션을 만들어줄 수도 있다
+
+구름 만들기
+sphere gizmo에 fire effect사용(맨탈레이에서는 안됨)
+camera->create from view
+
+물만들기
+autodesk water에서 원하는대로 수치를 조절한 후
+적용하면 물과 같은 효과를 얻을 수 있다(day light mrsun mr sky설정해줘야함)
+
+발광효과
+적용시킬 오브젝트의 속성에 들어가서 오브젝트 ID설정
+effect->lan effect->glow(맨탈레이에서 잘 안됨)
+
+IRAY(맨탈레이 있는곳에 있음)
+-맨탈레이의 재질이여야 랜더링 깔끔하게 
+시간을 기준으로 해서 만들고 시간을 지정한뒤
+그 안에서 최적의 결과물을 내는 개념.
+
+renderer에서 시간을 지정함

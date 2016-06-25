@@ -1,0 +1,2 @@
+graph editor-curve editor-edit-controller-out of
+range type-cycle을 클릭해주면 그 동작을 반복하게 된다

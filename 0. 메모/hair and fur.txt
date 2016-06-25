@@ -1,0 +1,14 @@
+hair and fur 
+머리에서 두피를 디테치 해서 따로 만들어 준 뒤
+헤어를 적용해준다.
+
+tool에서 preset으로 적용해줘도 좋다.
+
+styling->recomb을 누르면 중력의 효과를 받게 됨
+
+line을 이용해서 머리카락의 모양을 내어 만들어줄 수 있다.
+
+external force에 힘을 주고 dynamic에서
+live 선택해주면 털이 힘의 영향을 받게된다.
+애니메이션으로 만들어주고 싶다면 start file에서
+새로운 파일을 만들어준뒤 run을 클릭해주면 된다.

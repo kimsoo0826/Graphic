@@ -1,0 +1,1 @@
+perspective에서 ctrl+c를 누르면 카메라가 생성된다

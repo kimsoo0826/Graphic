@@ -1,9 +1,59 @@
-시뮬레이션 기능.
+massFX
 
-rigid-콘크리트 같은 강도에 사용
-preset에서 강도를 조절할 수 있다.
+-rigid body
+  -dynamic rigid body=움직임
+  -static rigid body=고정됨
+  -kinematic rigid body=키로 준 애니메이션과 연동가능
 
-mcloth-부드러운 강도.
-옷같이 펄럭이는 재질에 사용된다
+bake all로 키값을 줄 수 있다.
 
-vertex->pin(static과 같이 그 자리에 고정시키는 기능)
+기본적 박스 스피어 실린더만 됨
+(주전자의 안에 유리구슬 넣게 하는식의 것은 안됨)
+
+하게 해주려면 옵션을 바꿔야 함
+
+mult-option editor에 들어가서 mesh type을 
+오리지널로 바꿔줌, 이래도 안될경우 두께를 주면 됨
+하지만 static만 오리지날이 있고 dynamic에는 없는데
+그럴때에는 canaver로 바꾼다음에 아래에 있는 generate
+버튼을 눌러주면 된다.(generate위의 수치 조정해서
+정확하게 맞춰줌)
+
+ms사용방법
+
+maxscripter->run scripter
+
+원하는 곳에서 다이내믹 주고 싶을 경우
+kinematic선택 후 아래에서 언틸 프레임 설정
+그러면 그때 프레임부터 다이네믹 먹힘
+
+dynamic모으에서 start on sleep mode를
+클릭해주면 그 물체는 물체에 부딪치거나 하는 반응이
+있어야지 움직이기 시작한다.
+
+plane로 도형 잘라줄때 칼날 하나 선택한 후 함께
+자를 칼날 위에걸 선택해서 잘라주고 잘릴것 선택
+stock inside cutter,cutter outside stock 체크
+
+massFX가 느려지면 크기가 크기때문임
+한곳에 조각 밀집되게 하는것은 plane으로 크게 깨 놓은
+뒤에 부딪칠 부분만 선택한뒤 ms로 깨주면 됨
+
+mcloth
+
+고정시키는 방법
+mcloth 하위의 vertex선택 후 pin으로 고정시킴
+-node는 물체와 연결시켜 주는 역할
+
+천이 뚫리면 segment를 눌려주거나 낙하하는
+물체의 무게를 줄여줌
+
+enalble ballon behaiver로 풍선처럼 해줄 수 있다.
+
+ 시뮬레이션 시 부딛힐때 두 물체사이 빈 공간이 보인다
+싶으면 mcloth의 collide to rigid object의 
+thickness의 수치를 줄여주면 된다. 하지만 너무 줄여버리면
+파고드는듯한 모습이 될 수 있으므로 적절하게 조정
+
+또는 static된 물체의 physical mesh paramaters
+를 조정해주는 경우도 있다.
