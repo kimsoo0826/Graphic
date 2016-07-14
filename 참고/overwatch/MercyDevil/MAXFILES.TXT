@@ -1,0 +1,9 @@
+D:\三维模型\OW\MercyDevil\t$m$p$$$\MercyDevil.max
+D:\三维模型\OW\MercyDevil\t$m$p$$$\MAXFILES.TXT
+D:\三维模型\OW\MercyDevil\Mercy_Devil_D.tga
+D:\三维模型\OW\MercyDevil\Mercy_Devil_NS.tga
+D:\三维模型\OW\MercyDevil\Mercy_Devil_D2.tga
+D:\三维模型\OW\MercyDevil\Mercy_Devil_Eye.tga
+D:\三维模型\OW\MercyDevil\Mercy_Devil_Eye2.tga
+D:\三维模型\OW\MercyDevil\Mercy_Devil_Hair_D.tga
+D:\三维模型\OW\MercyDevil\Mercy_Devil_Wings.tga

@@ -1,0 +1,17 @@
+D:\三维模型\OW\Mei\t$m$p$$$\mei.max
+D:\三维模型\OW\Mei\t$m$p$$$\MAXFILES.TXT
+D:\三维模型\OW\Mei\Eye.jpg
+D:\三维模型\OW\Mei\Eye.png
+D:\三维模型\OW\Mei\Fur_D.png
+D:\三维模型\OW\Mei\Fur_NS.png
+D:\三维模型\OW\Mei\Gun_Bullet.png
+D:\三维模型\OW\Mei\Gun_D.png
+D:\三维模型\OW\Mei\Gun_E.png
+D:\三维模型\OW\Mei\Gun_NS.png
+D:\三维模型\OW\Mei\Hair_D.png
+D:\三维模型\OW\Mei\Hair_NS.png
+D:\三维模型\OW\Mei\Mei_D.png
+D:\三维模型\OW\Mei\Mei_E.png
+D:\三维模型\OW\Mei\Mei_NS.png
+D:\三维模型\OW\Mei\DroneEye.png
+D:\三维模型\OW\Mei\Gun_Glass.png

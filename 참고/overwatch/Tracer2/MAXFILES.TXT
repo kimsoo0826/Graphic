@@ -1,0 +1,15 @@
+D:\三维模型\OW\t$m$p$$$\Tracer2.max
+D:\三维模型\OW\t$m$p$$$\MAXFILES.TXT
+D:\三维模型\OW\Tracer\Eye.tga
+D:\三维模型\OW\Tracer\EyeS.tga
+D:\三维模型\OW\Tracer\Eye2.tga
+D:\三维模型\OW\Tracer\Hair_D.tga
+D:\三维模型\OW\Tracer\Hair_N.tga
+D:\三维模型\OW\Tracer\NudeBody_D.tga
+D:\三维模型\OW\Tracer\NudeBody_N.tga
+D:\三维模型\OW\Tracer\Particle.tga
+D:\三维模型\OW\Tracer\Tracer_D.tga
+D:\三维模型\OW\Tracer\Tracer_S.tga
+D:\三维模型\OW\Tracer\Tracer_N.tga
+D:\三维模型\OW\Tracer\Visor.tga
+D:\三维模型\OW\Tracer\visorop.tga

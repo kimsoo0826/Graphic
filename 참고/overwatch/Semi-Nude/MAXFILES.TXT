@@ -1,0 +1,17 @@
+D:\三维模型\OW\Semi-Nude\t$m$p$$$\Semi-Nude.max
+D:\三维模型\OW\Semi-Nude\t$m$p$$$\MAXFILES.TXT
+D:\三维模型\OW\Semi-Nude\eyeball_d.png
+D:\三维模型\OW\Semi-Nude\eyeball_s.png
+D:\三维模型\OW\Semi-Nude\eyeball_n.png
+D:\三维模型\OW\Semi-Nude\hair_d.png
+D:\三维模型\OW\Semi-Nude\hair_s.png
+D:\三维模型\OW\Semi-Nude\hair_n.png
+D:\三维模型\OW\Semi-Nude\skin_d.png
+D:\三维模型\OW\Semi-Nude\skin_s.png
+D:\三维模型\OW\Semi-Nude\skin_n.png
+D:\三维模型\OW\Semi-Nude\skin2_d.png
+D:\三维模型\OW\Semi-Nude\skin2_s.png
+D:\三维模型\OW\Semi-Nude\skin2_n.png
+D:\三维模型\OW\Semi-Nude\suitfix_d.png
+D:\三维模型\OW\Semi-Nude\suitfix_s.png
+D:\三维模型\OW\Semi-Nude\suitfix_n.png

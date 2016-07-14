@@ -1,0 +1,6 @@
+D:\三维模型\OW\Soldier76\t$m$p$$$\Soldier76.max
+D:\三维模型\OW\Soldier76\t$m$p$$$\MAXFILES.TXT
+D:\三维模型\OW\Soldier76\faceoff2.tga
+D:\三维模型\OW\Soldier76\faceoff_s.tga
+D:\三维模型\OW\Soldier76\foceoff_n.tga
+D:\三维模型\OW\Soldier76\s76_hair.tga

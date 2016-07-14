@@ -1,0 +1,11 @@
+D:\三维模型\OW\Widowmaker\t$m$p$$$\Widowmaker1.max
+D:\三维模型\OW\Widowmaker\t$m$p$$$\MAXFILES.TXT
+D:\三维模型\OW\Widowmaker\body_d.tga
+D:\三维模型\OW\Widowmaker\body_e.tga
+D:\三维模型\OW\Widowmaker\body_g.tga
+D:\三维模型\OW\Widowmaker\body_n.tga
+D:\三维模型\OW\Widowmaker\eyeball_iris.tga
+D:\三维模型\OW\Widowmaker\eye-cornea.tga
+D:\三维模型\OW\Widowmaker\eye-reflection-cubemap-.tga
+D:\三维模型\OW\Widowmaker\hair_d.tga
+D:\三维模型\OW\Widowmaker\hair_n.tga

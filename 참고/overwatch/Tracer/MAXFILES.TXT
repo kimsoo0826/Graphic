@@ -1,0 +1,16 @@
+D:\三维模型\OW\Tracer\t$m$p$$$\Tracer.max
+D:\三维模型\OW\Tracer\t$m$p$$$\MAXFILES.TXT
+D:\三维模型\OW\Overwatch - Tracer\Eye.tga
+D:\三维模型\OW\Overwatch - Tracer\Eys_S.tga
+D:\三维模型\OW\Overwatch - Tracer\Hair_D.tga
+D:\三维模型\OW\Overwatch - Tracer\Hair_N.tga
+D:\三维模型\OW\Overwatch - Tracer\Holo.tga
+D:\三维模型\OW\Overwatch - Tracer\NudeBody_D.tga
+D:\三维模型\OW\Overwatch - Tracer\NudeBody_N.tga
+D:\三维模型\OW\Overwatch - Tracer\Tracer_D.tga
+D:\三维模型\OW\Overwatch - Tracer\Tracer_S.tga
+D:\三维模型\OW\Overwatch - Tracer\Tracer_N.tga
+D:\三维模型\OW\Overwatch - Tracer\Visor.tga
+D:\三维模型\OW\Overwatch - Tracer\visorop.tga
+D:\三维模型\OW\Overwatch - Tracer\Slendistry_Holo.tga
+D:\三维模型\OW\Overwatch - Tracer\core.tga

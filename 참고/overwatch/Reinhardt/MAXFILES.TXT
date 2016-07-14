@@ -1,0 +1,6 @@
+D:\三维模型\OW\Reinhardt\t$m$p$$$\Reinhardt.max
+D:\三维模型\OW\Reinhardt\t$m$p$$$\MAXFILES.TXT
+D:\三维模型\OW\Reinhardt\reinhardt_body.tga
+D:\三维模型\OW\Reinhardt\reinhardt_body_s.tga
+D:\三维模型\OW\Reinhardt\reinhardt_body_n.tga
+D:\三维模型\OW\Reinhardt\reinhardt_decals.tga

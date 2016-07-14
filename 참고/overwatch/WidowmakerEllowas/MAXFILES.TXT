@@ -1,0 +1,7 @@
+D:\三维模型\OW\WidowmakerEllowas\t$m$p$$$\WidowmakerEllowas.max
+D:\三维模型\OW\WidowmakerEllowas\t$m$p$$$\MAXFILES.TXT
+D:\三维模型\OW\WidowmakerEllowas\pupil.tga
+D:\三维模型\OW\WidowmakerEllowas\Widowmaker_Body_Diffuse.tga
+D:\三维模型\OW\WidowmakerEllowas\Widowmaker_Hair_Diffuse.tga
+D:\三维模型\OW\WidowmakerEllowas\Widowmaker_Nude_Back.tga
+D:\三维模型\OW\WidowmakerEllowas\Widowmaker_Nude_Front.tga

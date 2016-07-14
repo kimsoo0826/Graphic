@@ -1,0 +1,12 @@
+D:\三维模型\OW\Mercy\t$m$p$$$\mercy1.max
+D:\三维模型\OW\Mercy\t$m$p$$$\MAXFILES.TXT
+D:\三维模型\OW\Mercy\Eye.tga
+D:\三维模型\OW\Mercy\Hair_D.tga
+D:\三维模型\OW\Mercy\Hair_NS.tga
+D:\三维模型\OW\Mercy\Mercy_D.tga
+D:\三维模型\OW\Mercy\Mercy_S.tga
+D:\三维模型\OW\Mercy\Mercy_NS.tga
+D:\三维模型\OW\Mercy\MercyLightwarp.tga
+D:\三维模型\OW\Mercy\Weapon_D.tga
+D:\三维模型\OW\Mercy\Weapon_NS.tga
+D:\三维模型\OW\Mercy\Wings.tga
