@@ -1,0 +1,3362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root type="map">
+  <Metadata type="map">
+    <Created type="string">Sat Jul 16 03:16:50 2016</Created>
+    <Name type="map">
+      <PenFile type="string">\WTablet\Wacom_Tablet.dat</PenFile>
+      <TouchFile type="string">\WTablet\WacomTouch.xml</TouchFile>
+    </Name>
+    <Version type="map">
+      <PenFile type="string">6.3.16-2</PenFile>
+      <TouchFile type="string">6.3.16-2</TouchFile>
+    </Version>
+  </Metadata>
+  <PenFile type="map">
+    <CPLLastApp type="integer">0</CPLLastApp>
+    <CPLLastPosition type="map">
+      <X type="integer">1756</X>
+      <Y type="integer">31</Y>
+      <Z type="integer">0</Z>
+    </CPLLastPosition>
+    <CPLLastTabPane type="integer">0</CPLLastTabPane>
+    <CPLOpened type="string">Sat Jul 16 03:14:23 2016</CPLOpened>
+    <Created type="string">Mon Apr 25 17:18:40 2016</Created>
+    <DisplayAsserts type="bool">false</DisplayAsserts>
+    <DisplayBrightness type="integer">6</DisplayBrightness>
+    <DriverOn1Off0 type="bool">true</DriverOn1Off0>
+    <ImportFileVersion type="integer">5</ImportFileVersion>
+    <LeftHandedMouse type="bool">false</LeftHandedMouse>
+    <NoStartWarnings type="integer">0</NoStartWarnings>
+    <OSInterface type="map">
+      <ApplicationMap type="map">
+        <AppID0 type="map">
+          <ApplicationLongName type="string"/>
+          <ApplicationName type="string">모두</ApplicationName>
+          <ApplicationRemoved type="bool">false</ApplicationRemoved>
+          <ApplicationSecondaryId type="string"/>
+          <ApplicationSeen type="bool">false</ApplicationSeen>
+        </AppID0>
+        <AppID1 type="map">
+          <ApplicationLongName type="string">C:\Program Files\Adobe\Adobe Photoshop CS6 (64 Bit)\Photoshop.exe</ApplicationLongName>
+          <ApplicationName type="string">Photoshop</ApplicationName>
+          <ApplicationRemoved type="bool">false</ApplicationRemoved>
+          <ApplicationSecondaryId type="string"/>
+          <ApplicationSeen type="bool">false</ApplicationSeen>
+        </AppID1>
+        <AppID2 type="map">
+          <ApplicationLongName type="string">C:\Program Files (x86)\Pixologic\ZBrush 4R6\ZBrush.exe</ApplicationLongName>
+          <ApplicationName type="string">ZBrush</ApplicationName>
+          <ApplicationRemoved type="bool">false</ApplicationRemoved>
+          <ApplicationSecondaryId type="string"/>
+          <ApplicationSeen type="bool">false</ApplicationSeen>
+        </AppID2>
+        <AppID3 type="map">
+          <ApplicationLongName type="string">C:\Program Files\MAXON\BodyPaint 3D R17\BodyPaint 3D.exe</ApplicationLongName>
+          <ApplicationName type="string">BodyPaint 3D</ApplicationName>
+          <ApplicationRemoved type="bool">false</ApplicationRemoved>
+          <ApplicationSecondaryId type="string"/>
+          <ApplicationSeen type="bool">false</ApplicationSeen>
+        </AppID3>
+      </ApplicationMap>
+      <ClickSound type="bool">false</ClickSound>
+      <ShowOSFeedback type="bool">true</ShowOSFeedback>
+    </OSInterface>
+    <ShowSystemTrayIcon type="bool">true</ShowSystemTrayIcon>
+    <SideSwitchPressAndTap type="bool">false</SideSwitchPressAndTap>
+    <TabletArray type="array">
+      <ArrayElement type="map">
+        <BacklightBrightness type="integer">100</BacklightBrightness>
+        <ContextManager type="map">
+          <DisplayToggleOverlay type="map">
+            <CtxMgrToggleMode type="integer">1</CtxMgrToggleMode>
+            <InputAreaType type="integer">0</InputAreaType>
+            <InputAspectType type="integer">2</InputAspectType>
+            <IntegratedOverlay type="bool">true</IntegratedOverlay>
+          </DisplayToggleOverlay>
+          <FinePointOverlay type="map">
+            <FinePointScale type="double">2.000000</FinePointScale>
+          </FinePointOverlay>
+          <MappingGroupArray type="array">
+            <ArrayElement type="map">
+              <ApplicationID type="integer">0</ApplicationID>
+              <MappingSetArray type="array">
+                <ArrayElement type="map">
+                  <Default type="integer">3</Default>
+                  <DisplayUnits type="integer">2</DisplayUnits>
+                  <InputScreenAreaArray type="array">
+                    <ArrayElement type="map">
+                      <AreaID type="integer">0</AreaID>
+                      <InputArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <AspectType type="integer">2</AspectType>
+                        <ButtonDownMask type="integer">4294967295</ButtonDownMask>
+                        <ButtonUpMask type="integer">4294967295</ButtonUpMask>
+                        <Locks type="integer">0</Locks>
+                        <MoveMask type="integer">384</MoveMask>
+                        <Options type="integer">32784</Options>
+                        <OverlapArea type="map">
+                          <Extent type="map">
+                            <X type="integer">119104</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">-59552</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </OverlapArea>
+                        <PacketRate type="integer">100</PacketRate>
+                        <TabletInputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">59552</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </TabletInputArea>
+                        <TabletInsetOn type="bool">false</TabletInsetOn>
+                      </InputArea>
+                      <ScreenArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <Ballistic type="integer">1</Ballistic>
+                        <CursorMode type="bool">false</CursorMode>
+                        <Locks type="integer">0</Locks>
+                        <MouseHeight type="integer">5</MouseHeight>
+                        <MouseOrientation type="bool">false</MouseOrientation>
+                        <MouseSpeed type="integer">5</MouseSpeed>
+                        <Options type="integer">1</Options>
+                        <ScreenOutputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">3840</X>
+                            <Y type="integer">1080</Y>
+                            <Z type="integer">0</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">0</Z>
+                          </Origin>
+                        </ScreenOutputArea>
+                        <SensitivityX type="double">1.000000</SensitivityX>
+                        <SensitivityY type="double">1.000000</SensitivityY>
+                        <WhichMonitor type="string">\\?\DISPLAY#WAC1040#4&amp;3022d457&amp;0&amp;UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}</WhichMonitor>
+                      </ScreenArea>
+                    </ArrayElement>
+                    <ArrayElement type="map">
+                      <AreaID type="integer">1</AreaID>
+                      <InputArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <AspectType type="integer">2</AspectType>
+                        <ButtonDownMask type="integer">4294967295</ButtonDownMask>
+                        <ButtonUpMask type="integer">4294967295</ButtonUpMask>
+                        <Locks type="integer">0</Locks>
+                        <MoveMask type="integer">384</MoveMask>
+                        <Options type="integer">32784</Options>
+                        <OverlapArea type="map">
+                          <Extent type="map">
+                            <X type="integer">119104</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">-59552</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </OverlapArea>
+                        <PacketRate type="integer">100</PacketRate>
+                        <TabletInputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">59552</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </TabletInputArea>
+                        <TabletInsetOn type="bool">false</TabletInsetOn>
+                      </InputArea>
+                      <ScreenArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <Ballistic type="integer">1</Ballistic>
+                        <CursorMode type="bool">false</CursorMode>
+                        <Locks type="integer">0</Locks>
+                        <MouseHeight type="integer">5</MouseHeight>
+                        <MouseOrientation type="bool">false</MouseOrientation>
+                        <MouseSpeed type="integer">5</MouseSpeed>
+                        <Options type="integer">1</Options>
+                        <ScreenOutputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">3840</X>
+                            <Y type="integer">1080</Y>
+                            <Z type="integer">0</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">0</Z>
+                          </Origin>
+                        </ScreenOutputArea>
+                        <SensitivityX type="double">1.000000</SensitivityX>
+                        <SensitivityY type="double">1.000000</SensitivityY>
+                        <WhichMonitor type="string">\\?\DISPLAY#WAC1040#4&amp;3022d457&amp;0&amp;UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}</WhichMonitor>
+                      </ScreenArea>
+                    </ArrayElement>
+                    <ArrayElement type="map">
+                      <AreaID type="integer">2</AreaID>
+                      <InputArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <AspectType type="integer">2</AspectType>
+                        <ButtonDownMask type="integer">4294967295</ButtonDownMask>
+                        <ButtonUpMask type="integer">4294967295</ButtonUpMask>
+                        <Locks type="integer">0</Locks>
+                        <MoveMask type="integer">384</MoveMask>
+                        <Options type="integer">32784</Options>
+                        <OverlapArea type="map">
+                          <Extent type="map">
+                            <X type="integer">119104</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">-59552</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </OverlapArea>
+                        <PacketRate type="integer">100</PacketRate>
+                        <TabletInputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">59552</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </TabletInputArea>
+                        <TabletInsetOn type="bool">false</TabletInsetOn>
+                      </InputArea>
+                      <ScreenArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <Ballistic type="integer">1</Ballistic>
+                        <CursorMode type="bool">false</CursorMode>
+                        <Locks type="integer">0</Locks>
+                        <MouseHeight type="integer">5</MouseHeight>
+                        <MouseOrientation type="bool">false</MouseOrientation>
+                        <MouseSpeed type="integer">5</MouseSpeed>
+                        <Options type="integer">1</Options>
+                        <ScreenOutputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">3840</X>
+                            <Y type="integer">1080</Y>
+                            <Z type="integer">0</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">0</Z>
+                          </Origin>
+                        </ScreenOutputArea>
+                        <SensitivityX type="double">1.000000</SensitivityX>
+                        <SensitivityY type="double">1.000000</SensitivityY>
+                        <WhichMonitor type="string">\\?\DISPLAY#WAC1040#4&amp;3022d457&amp;0&amp;UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}</WhichMonitor>
+                      </ScreenArea>
+                    </ArrayElement>
+                  </InputScreenAreaArray>
+                  <LastZipType type="integer">1</LastZipType>
+                  <Name type="string"/>
+                  <Origin type="integer">0</Origin>
+                  <OutputArea type="map">
+                    <Locks type="integer">0</Locks>
+                    <RelativeItems type="integer">0</RelativeItems>
+                    <ReportedItems type="integer">448</ReportedItems>
+                    <SensitivityX type="integer">65536</SensitivityX>
+                    <SensitivityY type="integer">65536</SensitivityY>
+                    <SensitivityZ type="integer">65536</SensitivityZ>
+                    <TabletOutputArea type="map">
+                      <Extent type="map">
+                        <X type="integer">59552</X>
+                        <Y type="integer">33848</Y>
+                        <Z type="integer">2047</Z>
+                      </Extent>
+                      <Origin type="map">
+                        <X type="integer">0</X>
+                        <Y type="integer">0</Y>
+                        <Z type="integer">-1023</Z>
+                      </Origin>
+                    </TabletOutputArea>
+                  </OutputArea>
+                  <Range type="integer">0</Range>
+                  <TabletUnits type="integer">4</TabletUnits>
+                  <TransducerID type="map">
+                    <Design type="integer">0</Design>
+                    <SerialNumber type="integer">0</SerialNumber>
+                    <Type type="integer">0</Type>
+                  </TransducerID>
+                  <Type type="integer">3</Type>
+                </ArrayElement>
+                <ArrayElement type="map">
+                  <Default type="integer">3</Default>
+                  <DisplayUnits type="integer">2</DisplayUnits>
+                  <InputScreenAreaArray type="array">
+                    <ArrayElement type="map">
+                      <AreaID type="integer">0</AreaID>
+                      <InputArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <AspectType type="integer">2</AspectType>
+                        <ButtonDownMask type="integer">4294967295</ButtonDownMask>
+                        <ButtonUpMask type="integer">4294967295</ButtonUpMask>
+                        <Locks type="integer">0</Locks>
+                        <MoveMask type="integer">384</MoveMask>
+                        <Options type="integer">32784</Options>
+                        <OverlapArea type="map">
+                          <Extent type="map">
+                            <X type="integer">119104</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">-59552</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </OverlapArea>
+                        <PacketRate type="integer">100</PacketRate>
+                        <TabletInputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">59552</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </TabletInputArea>
+                        <TabletInsetOn type="bool">false</TabletInsetOn>
+                      </InputArea>
+                      <ScreenArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <Ballistic type="integer">1</Ballistic>
+                        <CursorMode type="bool">false</CursorMode>
+                        <Locks type="integer">0</Locks>
+                        <MouseHeight type="integer">2</MouseHeight>
+                        <MouseOrientation type="bool">false</MouseOrientation>
+                        <MouseSpeed type="integer">5</MouseSpeed>
+                        <Options type="integer">1</Options>
+                        <ScreenOutputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">3840</X>
+                            <Y type="integer">1080</Y>
+                            <Z type="integer">0</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">0</Z>
+                          </Origin>
+                        </ScreenOutputArea>
+                        <SensitivityX type="double">1.000000</SensitivityX>
+                        <SensitivityY type="double">1.000000</SensitivityY>
+                        <WhichMonitor type="string">\\?\DISPLAY#WAC1040#4&amp;3022d457&amp;0&amp;UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}</WhichMonitor>
+                      </ScreenArea>
+                    </ArrayElement>
+                    <ArrayElement type="map">
+                      <AreaID type="integer">1</AreaID>
+                      <InputArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <AspectType type="integer">2</AspectType>
+                        <ButtonDownMask type="integer">4294967295</ButtonDownMask>
+                        <ButtonUpMask type="integer">4294967295</ButtonUpMask>
+                        <Locks type="integer">0</Locks>
+                        <MoveMask type="integer">384</MoveMask>
+                        <Options type="integer">32784</Options>
+                        <OverlapArea type="map">
+                          <Extent type="map">
+                            <X type="integer">119104</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">-59552</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </OverlapArea>
+                        <PacketRate type="integer">100</PacketRate>
+                        <TabletInputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">59552</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </TabletInputArea>
+                        <TabletInsetOn type="bool">false</TabletInsetOn>
+                      </InputArea>
+                      <ScreenArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <Ballistic type="integer">1</Ballistic>
+                        <CursorMode type="bool">false</CursorMode>
+                        <Locks type="integer">0</Locks>
+                        <MouseHeight type="integer">2</MouseHeight>
+                        <MouseOrientation type="bool">false</MouseOrientation>
+                        <MouseSpeed type="integer">5</MouseSpeed>
+                        <Options type="integer">1</Options>
+                        <ScreenOutputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">3840</X>
+                            <Y type="integer">1080</Y>
+                            <Z type="integer">0</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">0</Z>
+                          </Origin>
+                        </ScreenOutputArea>
+                        <SensitivityX type="double">1.000000</SensitivityX>
+                        <SensitivityY type="double">1.000000</SensitivityY>
+                        <WhichMonitor type="string">\\?\DISPLAY#WAC1040#4&amp;3022d457&amp;0&amp;UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}</WhichMonitor>
+                      </ScreenArea>
+                    </ArrayElement>
+                    <ArrayElement type="map">
+                      <AreaID type="integer">2</AreaID>
+                      <InputArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <AspectType type="integer">2</AspectType>
+                        <ButtonDownMask type="integer">4294967295</ButtonDownMask>
+                        <ButtonUpMask type="integer">4294967295</ButtonUpMask>
+                        <Locks type="integer">0</Locks>
+                        <MoveMask type="integer">384</MoveMask>
+                        <Options type="integer">32784</Options>
+                        <OverlapArea type="map">
+                          <Extent type="map">
+                            <X type="integer">119104</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">-59552</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </OverlapArea>
+                        <PacketRate type="integer">100</PacketRate>
+                        <TabletInputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">59552</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </TabletInputArea>
+                        <TabletInsetOn type="bool">false</TabletInsetOn>
+                      </InputArea>
+                      <ScreenArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <Ballistic type="integer">1</Ballistic>
+                        <CursorMode type="bool">true</CursorMode>
+                        <Locks type="integer">0</Locks>
+                        <MouseHeight type="integer">2</MouseHeight>
+                        <MouseOrientation type="bool">false</MouseOrientation>
+                        <MouseSpeed type="integer">5</MouseSpeed>
+                        <Options type="integer">1</Options>
+                        <ScreenOutputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">3840</X>
+                            <Y type="integer">1080</Y>
+                            <Z type="integer">0</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">0</Z>
+                          </Origin>
+                        </ScreenOutputArea>
+                        <SensitivityX type="double">1.000000</SensitivityX>
+                        <SensitivityY type="double">1.000000</SensitivityY>
+                        <WhichMonitor type="string">\\?\DISPLAY#WAC1040#4&amp;3022d457&amp;0&amp;UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}</WhichMonitor>
+                      </ScreenArea>
+                    </ArrayElement>
+                  </InputScreenAreaArray>
+                  <LastZipType type="integer">1</LastZipType>
+                  <Name type="string"/>
+                  <Origin type="integer">0</Origin>
+                  <OutputArea type="map">
+                    <Locks type="integer">0</Locks>
+                    <RelativeItems type="integer">0</RelativeItems>
+                    <ReportedItems type="integer">448</ReportedItems>
+                    <SensitivityX type="integer">65536</SensitivityX>
+                    <SensitivityY type="integer">65536</SensitivityY>
+                    <SensitivityZ type="integer">65536</SensitivityZ>
+                    <TabletOutputArea type="map">
+                      <Extent type="map">
+                        <X type="integer">59552</X>
+                        <Y type="integer">33848</Y>
+                        <Z type="integer">2047</Z>
+                      </Extent>
+                      <Origin type="map">
+                        <X type="integer">0</X>
+                        <Y type="integer">0</Y>
+                        <Z type="integer">-1023</Z>
+                      </Origin>
+                    </TabletOutputArea>
+                  </OutputArea>
+                  <Range type="integer">0</Range>
+                  <TabletUnits type="integer">4</TabletUnits>
+                  <TransducerID type="map">
+                    <Design type="integer">0</Design>
+                    <SerialNumber type="integer">0</SerialNumber>
+                    <Type type="integer">32768</Type>
+                  </TransducerID>
+                  <Type type="integer">3</Type>
+                </ArrayElement>
+                <ArrayElement type="map">
+                  <Default type="integer">3</Default>
+                  <DisplayUnits type="integer">2</DisplayUnits>
+                  <InputScreenAreaArray type="array">
+                    <ArrayElement type="map">
+                      <AreaID type="integer">0</AreaID>
+                      <InputArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <AspectType type="integer">2</AspectType>
+                        <ButtonDownMask type="integer">4294967295</ButtonDownMask>
+                        <ButtonUpMask type="integer">4294967295</ButtonUpMask>
+                        <Locks type="integer">0</Locks>
+                        <MoveMask type="integer">384</MoveMask>
+                        <Options type="integer">32784</Options>
+                        <OverlapArea type="map">
+                          <Extent type="map">
+                            <X type="integer">119104</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">-59552</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </OverlapArea>
+                        <PacketRate type="integer">100</PacketRate>
+                        <TabletInputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">59552</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </TabletInputArea>
+                        <TabletInsetOn type="bool">false</TabletInsetOn>
+                      </InputArea>
+                      <ScreenArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <Ballistic type="integer">1</Ballistic>
+                        <CursorMode type="bool">false</CursorMode>
+                        <Locks type="integer">0</Locks>
+                        <MouseHeight type="integer">5</MouseHeight>
+                        <MouseOrientation type="bool">false</MouseOrientation>
+                        <MouseSpeed type="integer">5</MouseSpeed>
+                        <Options type="integer">1</Options>
+                        <ScreenOutputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">3840</X>
+                            <Y type="integer">1080</Y>
+                            <Z type="integer">0</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">0</Z>
+                          </Origin>
+                        </ScreenOutputArea>
+                        <SensitivityX type="double">1.000000</SensitivityX>
+                        <SensitivityY type="double">1.000000</SensitivityY>
+                        <WhichMonitor type="string">\\?\DISPLAY#WAC1040#4&amp;3022d457&amp;0&amp;UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}</WhichMonitor>
+                      </ScreenArea>
+                    </ArrayElement>
+                    <ArrayElement type="map">
+                      <AreaID type="integer">1</AreaID>
+                      <InputArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <AspectType type="integer">2</AspectType>
+                        <ButtonDownMask type="integer">4294967295</ButtonDownMask>
+                        <ButtonUpMask type="integer">4294967295</ButtonUpMask>
+                        <Locks type="integer">0</Locks>
+                        <MoveMask type="integer">384</MoveMask>
+                        <Options type="integer">32784</Options>
+                        <OverlapArea type="map">
+                          <Extent type="map">
+                            <X type="integer">119104</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">-59552</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </OverlapArea>
+                        <PacketRate type="integer">100</PacketRate>
+                        <TabletInputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">59552</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </TabletInputArea>
+                        <TabletInsetOn type="bool">false</TabletInsetOn>
+                      </InputArea>
+                      <ScreenArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <Ballistic type="integer">1</Ballistic>
+                        <CursorMode type="bool">false</CursorMode>
+                        <Locks type="integer">0</Locks>
+                        <MouseHeight type="integer">5</MouseHeight>
+                        <MouseOrientation type="bool">false</MouseOrientation>
+                        <MouseSpeed type="integer">5</MouseSpeed>
+                        <Options type="integer">1</Options>
+                        <ScreenOutputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">3840</X>
+                            <Y type="integer">1080</Y>
+                            <Z type="integer">0</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">0</Z>
+                          </Origin>
+                        </ScreenOutputArea>
+                        <SensitivityX type="double">1.000000</SensitivityX>
+                        <SensitivityY type="double">1.000000</SensitivityY>
+                        <WhichMonitor type="string">\\?\DISPLAY#WAC1040#4&amp;3022d457&amp;0&amp;UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}</WhichMonitor>
+                      </ScreenArea>
+                    </ArrayElement>
+                    <ArrayElement type="map">
+                      <AreaID type="integer">2</AreaID>
+                      <InputArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <AspectType type="integer">2</AspectType>
+                        <ButtonDownMask type="integer">4294967295</ButtonDownMask>
+                        <ButtonUpMask type="integer">4294967295</ButtonUpMask>
+                        <Locks type="integer">0</Locks>
+                        <MoveMask type="integer">384</MoveMask>
+                        <Options type="integer">32784</Options>
+                        <OverlapArea type="map">
+                          <Extent type="map">
+                            <X type="integer">119104</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">-59552</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </OverlapArea>
+                        <PacketRate type="integer">100</PacketRate>
+                        <TabletInputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">59552</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </TabletInputArea>
+                        <TabletInsetOn type="bool">false</TabletInsetOn>
+                      </InputArea>
+                      <ScreenArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <Ballistic type="integer">1</Ballistic>
+                        <CursorMode type="bool">false</CursorMode>
+                        <Locks type="integer">0</Locks>
+                        <MouseHeight type="integer">5</MouseHeight>
+                        <MouseOrientation type="bool">false</MouseOrientation>
+                        <MouseSpeed type="integer">5</MouseSpeed>
+                        <Options type="integer">1</Options>
+                        <ScreenOutputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">3840</X>
+                            <Y type="integer">1080</Y>
+                            <Z type="integer">0</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">0</Z>
+                          </Origin>
+                        </ScreenOutputArea>
+                        <SensitivityX type="double">1.000000</SensitivityX>
+                        <SensitivityY type="double">1.000000</SensitivityY>
+                        <WhichMonitor type="string">\\?\DISPLAY#WAC1040#4&amp;3022d457&amp;0&amp;UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}</WhichMonitor>
+                      </ScreenArea>
+                    </ArrayElement>
+                  </InputScreenAreaArray>
+                  <LastZipType type="integer">1</LastZipType>
+                  <Name type="string"/>
+                  <Origin type="integer">0</Origin>
+                  <OutputArea type="map">
+                    <Locks type="integer">0</Locks>
+                    <RelativeItems type="integer">0</RelativeItems>
+                    <ReportedItems type="integer">448</ReportedItems>
+                    <SensitivityX type="integer">65536</SensitivityX>
+                    <SensitivityY type="integer">65536</SensitivityY>
+                    <SensitivityZ type="integer">65536</SensitivityZ>
+                    <TabletOutputArea type="map">
+                      <Extent type="map">
+                        <X type="integer">59552</X>
+                        <Y type="integer">33848</Y>
+                        <Z type="integer">2047</Z>
+                      </Extent>
+                      <Origin type="map">
+                        <X type="integer">0</X>
+                        <Y type="integer">0</Y>
+                        <Z type="integer">-1023</Z>
+                      </Origin>
+                    </TabletOutputArea>
+                  </OutputArea>
+                  <Range type="integer">0</Range>
+                  <TabletUnits type="integer">4</TabletUnits>
+                  <TransducerID type="map">
+                    <Design type="integer">0</Design>
+                    <SerialNumber type="integer">0</SerialNumber>
+                    <Type type="integer">16384</Type>
+                  </TransducerID>
+                  <Type type="integer">3</Type>
+                </ArrayElement>
+                <ArrayElement type="map">
+                  <Default type="integer">3</Default>
+                  <DisplayUnits type="integer">2</DisplayUnits>
+                  <InputScreenAreaArray type="array">
+                    <ArrayElement type="map">
+                      <AreaID type="integer">0</AreaID>
+                      <InputArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <AspectType type="integer">2</AspectType>
+                        <ButtonDownMask type="integer">4294967295</ButtonDownMask>
+                        <ButtonUpMask type="integer">4294967295</ButtonUpMask>
+                        <Locks type="integer">0</Locks>
+                        <MoveMask type="integer">384</MoveMask>
+                        <Options type="integer">32784</Options>
+                        <OverlapArea type="map">
+                          <Extent type="map">
+                            <X type="integer">119104</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">-59552</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </OverlapArea>
+                        <PacketRate type="integer">100</PacketRate>
+                        <TabletInputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">59552</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </TabletInputArea>
+                        <TabletInsetOn type="bool">false</TabletInsetOn>
+                      </InputArea>
+                      <ScreenArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <Ballistic type="integer">1</Ballistic>
+                        <CursorMode type="bool">false</CursorMode>
+                        <Locks type="integer">0</Locks>
+                        <MouseHeight type="integer">5</MouseHeight>
+                        <MouseOrientation type="bool">false</MouseOrientation>
+                        <MouseSpeed type="integer">5</MouseSpeed>
+                        <Options type="integer">1</Options>
+                        <ScreenOutputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">1920</X>
+                            <Y type="integer">1080</Y>
+                            <Z type="integer">0</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">0</Z>
+                          </Origin>
+                        </ScreenOutputArea>
+                        <SensitivityX type="double">1.000000</SensitivityX>
+                        <SensitivityY type="double">1.000000</SensitivityY>
+                        <WhichMonitor type="string">\\?\DISPLAY#WAC1040#4&amp;3022d457&amp;0&amp;UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}</WhichMonitor>
+                      </ScreenArea>
+                    </ArrayElement>
+                    <ArrayElement type="map">
+                      <AreaID type="integer">1</AreaID>
+                      <InputArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <AspectType type="integer">2</AspectType>
+                        <ButtonDownMask type="integer">4294967295</ButtonDownMask>
+                        <ButtonUpMask type="integer">4294967295</ButtonUpMask>
+                        <Locks type="integer">0</Locks>
+                        <MoveMask type="integer">384</MoveMask>
+                        <Options type="integer">32784</Options>
+                        <OverlapArea type="map">
+                          <Extent type="map">
+                            <X type="integer">119104</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">-59552</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </OverlapArea>
+                        <PacketRate type="integer">100</PacketRate>
+                        <TabletInputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">59552</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </TabletInputArea>
+                        <TabletInsetOn type="bool">false</TabletInsetOn>
+                      </InputArea>
+                      <ScreenArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <Ballistic type="integer">1</Ballistic>
+                        <CursorMode type="bool">false</CursorMode>
+                        <Locks type="integer">0</Locks>
+                        <MouseHeight type="integer">5</MouseHeight>
+                        <MouseOrientation type="bool">false</MouseOrientation>
+                        <MouseSpeed type="integer">5</MouseSpeed>
+                        <Options type="integer">1</Options>
+                        <ScreenOutputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">1920</X>
+                            <Y type="integer">1080</Y>
+                            <Z type="integer">0</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">0</Z>
+                          </Origin>
+                        </ScreenOutputArea>
+                        <SensitivityX type="double">1.000000</SensitivityX>
+                        <SensitivityY type="double">1.000000</SensitivityY>
+                        <WhichMonitor type="string">\\?\DISPLAY#WAC1040#4&amp;3022d457&amp;0&amp;UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}</WhichMonitor>
+                      </ScreenArea>
+                    </ArrayElement>
+                    <ArrayElement type="map">
+                      <AreaID type="integer">2</AreaID>
+                      <InputArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <AspectType type="integer">2</AspectType>
+                        <ButtonDownMask type="integer">4294967295</ButtonDownMask>
+                        <ButtonUpMask type="integer">4294967295</ButtonUpMask>
+                        <Locks type="integer">0</Locks>
+                        <MoveMask type="integer">384</MoveMask>
+                        <Options type="integer">32784</Options>
+                        <OverlapArea type="map">
+                          <Extent type="map">
+                            <X type="integer">119104</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">-59552</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </OverlapArea>
+                        <PacketRate type="integer">100</PacketRate>
+                        <TabletInputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">59552</X>
+                            <Y type="integer">33848</Y>
+                            <Z type="integer">2047</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">-1023</Z>
+                          </Origin>
+                        </TabletInputArea>
+                        <TabletInsetOn type="bool">false</TabletInsetOn>
+                      </InputArea>
+                      <ScreenArea type="map">
+                        <AreaType type="integer">0</AreaType>
+                        <Ballistic type="integer">1</Ballistic>
+                        <CursorMode type="bool">false</CursorMode>
+                        <Locks type="integer">0</Locks>
+                        <MouseHeight type="integer">5</MouseHeight>
+                        <MouseOrientation type="bool">false</MouseOrientation>
+                        <MouseSpeed type="integer">5</MouseSpeed>
+                        <Options type="integer">1</Options>
+                        <ScreenOutputArea type="map">
+                          <Extent type="map">
+                            <X type="integer">1920</X>
+                            <Y type="integer">1080</Y>
+                            <Z type="integer">0</Z>
+                          </Extent>
+                          <Origin type="map">
+                            <X type="integer">0</X>
+                            <Y type="integer">0</Y>
+                            <Z type="integer">0</Z>
+                          </Origin>
+                        </ScreenOutputArea>
+                        <SensitivityX type="double">1.000000</SensitivityX>
+                        <SensitivityY type="double">1.000000</SensitivityY>
+                        <WhichMonitor type="string">\\?\DISPLAY#WAC1040#4&amp;3022d457&amp;0&amp;UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}</WhichMonitor>
+                      </ScreenArea>
+                    </ArrayElement>
+                  </InputScreenAreaArray>
+                  <LastZipType type="integer">1</LastZipType>
+                  <Name type="string"/>
+                  <Origin type="integer">0</Origin>
+                  <OutputArea type="map">
+                    <Locks type="integer">0</Locks>
+                    <RelativeItems type="integer">0</RelativeItems>
+                    <ReportedItems type="integer">448</ReportedItems>
+                    <SensitivityX type="integer">65536</SensitivityX>
+                    <SensitivityY type="integer">65536</SensitivityY>
+                    <SensitivityZ type="integer">65536</SensitivityZ>
+                    <TabletOutputArea type="map">
+                      <Extent type="map">
+                        <X type="integer">59552</X>
+                        <Y type="integer">33848</Y>
+                        <Z type="integer">2047</Z>
+                      </Extent>
+                      <Origin type="map">
+                        <X type="integer">0</X>
+                        <Y type="integer">0</Y>
+                        <Z type="integer">-1023</Z>
+                      </Origin>
+                    </TabletOutputArea>
+                  </OutputArea>
+                  <Range type="integer">0</Range>
+                  <TabletUnits type="integer">4</TabletUnits>
+                  <TransducerID type="map">
+                    <Design type="integer">22</Design>
+                    <SerialNumber type="integer">1451235776</SerialNumber>
+                    <Type type="integer">18434</Type>
+                  </TransducerID>
+                  <Type type="integer">3</Type>
+                </ArrayElement>
+              </MappingSetArray>
+              <UserID type="integer">0</UserID>
+            </ArrayElement>
+          </MappingGroupArray>
+          <Orientation type="integer">1</Orientation>
+          <PenScroller type="map">
+            <PenScrollerScale type="double">1.000000</PenScrollerScale>
+          </PenScroller>
+        </ContextManager>
+        <DefaultTabName type="string">Cintiq 13HD</DefaultTabName>
+        <FourPointLowerLeftInvertLandscape type="map">
+          <X type="integer">400</X>
+          <Y type="integer">33448</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerLeftInvertLandscape>
+        <FourPointLowerLeftInvertLandscapeExpected type="map">
+          <X type="integer">0</X>
+          <Y type="integer">33848</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerLeftInvertLandscapeExpected>
+        <FourPointLowerLeftInvertPortrait type="map">
+          <X type="integer">400</X>
+          <Y type="integer">33448</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerLeftInvertPortrait>
+        <FourPointLowerLeftInvertPortraitExpected type="map">
+          <X type="integer">0</X>
+          <Y type="integer">33848</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerLeftInvertPortraitExpected>
+        <FourPointLowerLeftLandscape type="map">
+          <X type="integer">400</X>
+          <Y type="integer">33448</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerLeftLandscape>
+        <FourPointLowerLeftLandscapeExpected type="map">
+          <X type="integer">0</X>
+          <Y type="integer">33848</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerLeftLandscapeExpected>
+        <FourPointLowerLeftPortrait type="map">
+          <X type="integer">345</X>
+          <Y type="integer">33291</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerLeftPortrait>
+        <FourPointLowerLeftPortraitExpected type="map">
+          <X type="integer">0</X>
+          <Y type="integer">33848</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerLeftPortraitExpected>
+        <FourPointLowerRightInvertLandscape type="map">
+          <X type="integer">59152</X>
+          <Y type="integer">33448</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerRightInvertLandscape>
+        <FourPointLowerRightInvertLandscapeExpected type="map">
+          <X type="integer">59552</X>
+          <Y type="integer">33848</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerRightInvertLandscapeExpected>
+        <FourPointLowerRightInvertPortrait type="map">
+          <X type="integer">59152</X>
+          <Y type="integer">33448</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerRightInvertPortrait>
+        <FourPointLowerRightInvertPortraitExpected type="map">
+          <X type="integer">59552</X>
+          <Y type="integer">33848</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerRightInvertPortraitExpected>
+        <FourPointLowerRightLandscape type="map">
+          <X type="integer">59152</X>
+          <Y type="integer">33448</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerRightLandscape>
+        <FourPointLowerRightLandscapeExpected type="map">
+          <X type="integer">59552</X>
+          <Y type="integer">33848</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerRightLandscapeExpected>
+        <FourPointLowerRightPortrait type="map">
+          <X type="integer">58871</X>
+          <Y type="integer">33349</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerRightPortrait>
+        <FourPointLowerRightPortraitExpected type="map">
+          <X type="integer">59552</X>
+          <Y type="integer">33848</Y>
+          <Z type="integer">0</Z>
+        </FourPointLowerRightPortraitExpected>
+        <FourPointUpperLeftInvertLandscape type="map">
+          <X type="integer">400</X>
+          <Y type="integer">400</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperLeftInvertLandscape>
+        <FourPointUpperLeftInvertLandscapeExpected type="map">
+          <X type="integer">0</X>
+          <Y type="integer">0</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperLeftInvertLandscapeExpected>
+        <FourPointUpperLeftInvertPortrait type="map">
+          <X type="integer">400</X>
+          <Y type="integer">400</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperLeftInvertPortrait>
+        <FourPointUpperLeftInvertPortraitExpected type="map">
+          <X type="integer">0</X>
+          <Y type="integer">0</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperLeftInvertPortraitExpected>
+        <FourPointUpperLeftLandscape type="map">
+          <X type="integer">400</X>
+          <Y type="integer">400</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperLeftLandscape>
+        <FourPointUpperLeftLandscapeExpected type="map">
+          <X type="integer">0</X>
+          <Y type="integer">0</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperLeftLandscapeExpected>
+        <FourPointUpperLeftPortrait type="map">
+          <X type="integer">530</X>
+          <Y type="integer">524</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperLeftPortrait>
+        <FourPointUpperLeftPortraitExpected type="map">
+          <X type="integer">0</X>
+          <Y type="integer">0</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperLeftPortraitExpected>
+        <FourPointUpperRightInvertLandscape type="map">
+          <X type="integer">59152</X>
+          <Y type="integer">400</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperRightInvertLandscape>
+        <FourPointUpperRightInvertLandscapeExpected type="map">
+          <X type="integer">59552</X>
+          <Y type="integer">0</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperRightInvertLandscapeExpected>
+        <FourPointUpperRightInvertPortrait type="map">
+          <X type="integer">59152</X>
+          <Y type="integer">400</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperRightInvertPortrait>
+        <FourPointUpperRightInvertPortraitExpected type="map">
+          <X type="integer">59552</X>
+          <Y type="integer">0</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperRightInvertPortraitExpected>
+        <FourPointUpperRightLandscape type="map">
+          <X type="integer">59152</X>
+          <Y type="integer">400</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperRightLandscape>
+        <FourPointUpperRightLandscapeExpected type="map">
+          <X type="integer">59552</X>
+          <Y type="integer">0</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperRightLandscapeExpected>
+        <FourPointUpperRightPortrait type="map">
+          <X type="integer">58952</X>
+          <Y type="integer">395</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperRightPortrait>
+        <FourPointUpperRightPortraitExpected type="map">
+          <X type="integer">59552</X>
+          <Y type="integer">0</Y>
+          <Z type="integer">0</Z>
+        </FourPointUpperRightPortraitExpected>
+        <InvertLandscapeMultiPointCalibration type="map">
+          <IsSet type="bool">false</IsSet>
+          <MatrixColumnCount type="integer">5</MatrixColumnCount>
+          <MatrixRowCount type="integer">5</MatrixRowCount>
+          <Node0 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node0>
+          <Node1 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node1>
+          <Node10 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node10>
+          <Node11 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node11>
+          <Node12 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node12>
+          <Node13 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node13>
+          <Node14 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node14>
+          <Node15 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node15>
+          <Node16 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node16>
+          <Node17 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node17>
+          <Node18 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node18>
+          <Node19 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node19>
+          <Node2 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node2>
+          <Node20 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node20>
+          <Node21 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node21>
+          <Node22 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node22>
+          <Node23 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node23>
+          <Node24 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node24>
+          <Node3 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node3>
+          <Node4 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node4>
+          <Node5 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node5>
+          <Node6 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node6>
+          <Node7 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node7>
+          <Node8 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node8>
+          <Node9 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node9>
+          <TabletSizeX type="integer">59552</TabletSizeX>
+          <TabletSizeY type="integer">33848</TabletSizeY>
+        </InvertLandscapeMultiPointCalibration>
+        <InvertPortraitMultiPointCalibration type="map">
+          <IsSet type="bool">false</IsSet>
+          <MatrixColumnCount type="integer">5</MatrixColumnCount>
+          <MatrixRowCount type="integer">5</MatrixRowCount>
+          <Node0 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node0>
+          <Node1 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node1>
+          <Node10 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node10>
+          <Node11 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node11>
+          <Node12 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node12>
+          <Node13 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node13>
+          <Node14 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node14>
+          <Node15 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node15>
+          <Node16 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node16>
+          <Node17 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node17>
+          <Node18 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node18>
+          <Node19 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node19>
+          <Node2 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node2>
+          <Node20 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node20>
+          <Node21 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node21>
+          <Node22 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node22>
+          <Node23 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node23>
+          <Node24 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node24>
+          <Node3 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node3>
+          <Node4 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node4>
+          <Node5 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node5>
+          <Node6 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node6>
+          <Node7 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node7>
+          <Node8 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node8>
+          <Node9 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node9>
+          <TabletSizeX type="integer">59552</TabletSizeX>
+          <TabletSizeY type="integer">33848</TabletSizeY>
+        </InvertPortraitMultiPointCalibration>
+        <LandscapeMultiPointCalibration type="map">
+          <IsSet type="bool">false</IsSet>
+          <MatrixColumnCount type="integer">5</MatrixColumnCount>
+          <MatrixRowCount type="integer">5</MatrixRowCount>
+          <Node0 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node0>
+          <Node1 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node1>
+          <Node10 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node10>
+          <Node11 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node11>
+          <Node12 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node12>
+          <Node13 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node13>
+          <Node14 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node14>
+          <Node15 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node15>
+          <Node16 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node16>
+          <Node17 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node17>
+          <Node18 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node18>
+          <Node19 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node19>
+          <Node2 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node2>
+          <Node20 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node20>
+          <Node21 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node21>
+          <Node22 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node22>
+          <Node23 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node23>
+          <Node24 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node24>
+          <Node3 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node3>
+          <Node4 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node4>
+          <Node5 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node5>
+          <Node6 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node6>
+          <Node7 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node7>
+          <Node8 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node8>
+          <Node9 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node9>
+          <TabletSizeX type="integer">59552</TabletSizeX>
+          <TabletSizeY type="integer">33848</TabletSizeY>
+        </LandscapeMultiPointCalibration>
+        <MaxDataRateOn type="bool">true</MaxDataRateOn>
+        <PortraitMultiPointCalibration type="map">
+          <IsSet type="bool">false</IsSet>
+          <MatrixColumnCount type="integer">5</MatrixColumnCount>
+          <MatrixRowCount type="integer">5</MatrixRowCount>
+          <Node0 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node0>
+          <Node1 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node1>
+          <Node10 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node10>
+          <Node11 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node11>
+          <Node12 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node12>
+          <Node13 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node13>
+          <Node14 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">16924</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node14>
+          <Node15 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node15>
+          <Node16 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node16>
+          <Node17 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node17>
+          <Node18 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node18>
+          <Node19 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">30463</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node19>
+          <Node2 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node2>
+          <Node20 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node20>
+          <Node21 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node21>
+          <Node22 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node22>
+          <Node23 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node23>
+          <Node24 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">33848</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node24>
+          <Node3 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node3>
+          <Node4 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">0</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node4>
+          <Node5 type="map">
+            <coordX type="integer">0</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node5>
+          <Node6 type="map">
+            <coordX type="integer">5955</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node6>
+          <Node7 type="map">
+            <coordX type="integer">29776</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node7>
+          <Node8 type="map">
+            <coordX type="integer">53597</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node8>
+          <Node9 type="map">
+            <coordX type="integer">59552</coordX>
+            <coordY type="integer">3385</coordY>
+            <offsetX type="integer">0</offsetX>
+            <offsetY type="integer">0</offsetY>
+          </Node9>
+          <TabletSizeX type="integer">59552</TabletSizeX>
+          <TabletSizeY type="integer">33848</TabletSizeY>
+        </PortraitMultiPointCalibration>
+        <SensorID type="integer">90833668</SensorID>
+        <TabletAppTouchFunctions type="array"/>
+        <TabletCommInterface type="map">
+          <BTDeviceAddress type="string"/>
+          <CommPort type="string">\\?\HID#VID_056A&amp;PID_0304&amp;COL02#7&amp;2DD1D1D6&amp;1&amp;0001#{4D1E55B2-F16F-11CF-88CB-001111000030}</CommPort>
+        </TabletCommInterface>
+        <TabletControlContainerArray type="array">
+          <ArrayElement type="map">
+            <ApplicationAssociated type="integer">0</ApplicationAssociated>
+            <TabletControlsButtonsArray type="array">
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">68</ButtonFunction>
+                <ButtonName type="string">Button1</ButtonName>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+                <Usage type="map">
+                  <EHelp type="map">
+                    <Count type="integer">5</Count>
+                    <Last type="string">Mon Apr 25 21:29:28 2016</Last>
+                  </EHelp>
+                  <_enum__ECommandType_67 type="map">
+                    <Count type="integer">0</Count>
+                  </_enum__ECommandType_67>
+                  <_enum__ECommandType_68 type="map">
+                    <Count type="integer">466</Count>
+                    <Last type="string">Tue Jul 12 22:13:36 2016</Last>
+                  </_enum__ECommandType_68>
+                </Usage>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">67</ButtonFunction>
+                <ButtonName type="string">Button2</ButtonName>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+                <Usage type="map">
+                  <_enum__ECommandType_61 type="map">
+                    <Count type="integer">2</Count>
+                    <Last type="string">Mon Apr 25 21:29:28 2016</Last>
+                  </_enum__ECommandType_61>
+                  <_enum__ECommandType_67 type="map">
+                    <Count type="integer">509</Count>
+                    <Last type="string">Tue Jul 12 22:13:35 2016</Last>
+                  </_enum__ECommandType_67>
+                </Usage>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">8</ButtonFunction>
+                <ButtonKeystrokeShortcutName type="string">뒤로가기</ButtonKeystrokeShortcutName>
+                <ButtonName type="string">Button3</ButtonName>
+                <Keystroke type="kestring"><![CDATA[&control;z]]></Keystroke>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+                <Usage type="map">
+                  <EKeystrokes type="map">
+                    <Count type="integer">1641</Count>
+                    <Last type="string">Tue Jul 12 21:57:16 2016</Last>
+                  </EKeystrokes>
+                  <EModifiers type="map">
+                    <Count type="integer">1</Count>
+                    <Last type="string">Mon Apr 25 21:28:14 2016</Last>
+                  </EModifiers>
+                </Usage>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">33</ButtonFunction>
+                <ButtonName type="string">Button4</ButtonName>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+                <Usage type="map">
+                  <EButtonPanning type="map">
+                    <Count type="integer">1603</Count>
+                    <Last type="string">Tue Jul 12 22:13:32 2016</Last>
+                  </EButtonPanning>
+                </Usage>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">9</ButtonFunction>
+                <ButtonName type="string">ButtonRight</ButtonName>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+                <Modifier type="kestring"><![CDATA[&control;]]></Modifier>
+                <Usage type="map">
+                  <EDisplayToggle type="map">
+                    <Count type="integer">1</Count>
+                    <Last type="string">Mon Apr 25 21:28:02 2016</Last>
+                  </EDisplayToggle>
+                  <EModifiers type="map">
+                    <Count type="integer">43</Count>
+                    <Last type="string">Wed Jul 06 15:52:22 2016</Last>
+                  </EModifiers>
+                </Usage>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">8</ButtonFunction>
+                <ButtonKeystrokeShortcutName type="string">회전</ButtonKeystrokeShortcutName>
+                <ButtonName type="string">ButtonUp</ButtonName>
+                <Keystroke type="kestring"><![CDATA[r]]></Keystroke>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+                <Usage type="map">
+                  <EKeystrokes type="map">
+                    <Count type="integer">94</Count>
+                    <Last type="string">Wed Jul 06 13:43:42 2016</Last>
+                  </EKeystrokes>
+                </Usage>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">9</ButtonFunction>
+                <ButtonName type="string">ButtonLeft</ButtonName>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+                <Modifier type="kestring"><![CDATA[&shift;]]></Modifier>
+                <Usage type="map">
+                  <EFinePoint type="map">
+                    <Count type="integer">8</Count>
+                    <Last type="string">Mon Apr 25 21:28:13 2016</Last>
+                  </EFinePoint>
+                  <EModifiers type="map">
+                    <Count type="integer">42</Count>
+                    <Last type="string">Mon Jul 04 21:59:37 2016</Last>
+                  </EModifiers>
+                </Usage>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">9</ButtonFunction>
+                <ButtonName type="string">ButtonDown</ButtonName>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+                <Modifier type="kestring"><![CDATA[&alt;]]></Modifier>
+                <Usage type="map">
+                  <EModifiers type="map">
+                    <Count type="integer">670</Count>
+                    <Last type="string">Tue Jul 12 20:58:22 2016</Last>
+                  </EModifiers>
+                </Usage>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">8</ButtonFunction>
+                <ButtonKeystrokeShortcutName type="string">저장</ButtonKeystrokeShortcutName>
+                <ButtonName type="string">ButtonHome</ButtonName>
+                <Keystroke type="kestring"><![CDATA[&control;s]]></Keystroke>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+                <Usage type="map">
+                  <EKeystrokes type="map">
+                    <Count type="integer">289</Count>
+                    <Last type="string">Tue Jul 12 22:13:44 2016</Last>
+                  </EKeystrokes>
+                  <EMetroDesktopToggle type="map">
+                    <Count type="integer">2</Count>
+                    <Last type="string">Mon Apr 25 21:28:04 2016</Last>
+                  </EMetroDesktopToggle>
+                </Usage>
+              </ArrayElement>
+            </TabletControlsButtonsArray>
+            <TabletControlsModButtonsArray type="array"/>
+            <TouchRingShowButtonHUD type="bool">false</TouchRingShowButtonHUD>
+          </ArrayElement>
+          <ArrayElement type="map">
+            <ApplicationAssociated type="integer">3</ApplicationAssociated>
+            <TabletControlsButtonsArray type="array">
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">68</ButtonFunction>
+                <ButtonName type="string">Button1</ButtonName>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">67</ButtonFunction>
+                <ButtonName type="string">Button2</ButtonName>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">8</ButtonFunction>
+                <ButtonKeystrokeShortcutName type="string">뒤로가기</ButtonKeystrokeShortcutName>
+                <ButtonName type="string">Button3</ButtonName>
+                <Keystroke type="kestring"><![CDATA[&control;z]]></Keystroke>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+                <Usage type="map">
+                  <EKeystrokes type="map">
+                    <Count type="integer">4</Count>
+                    <Last type="string">Thu Jun 23 16:02:27 2016</Last>
+                  </EKeystrokes>
+                </Usage>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">33</ButtonFunction>
+                <ButtonName type="string">Button4</ButtonName>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">9</ButtonFunction>
+                <ButtonName type="string">ButtonRight</ButtonName>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+                <Modifier type="kestring"><![CDATA[&control;]]></Modifier>
+                <Usage type="map">
+                  <EModifiers type="map">
+                    <Count type="integer">1</Count>
+                    <Last type="string">Thu Jun 23 16:05:43 2016</Last>
+                  </EModifiers>
+                </Usage>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">8</ButtonFunction>
+                <ButtonKeystrokeShortcutName type="string">회전</ButtonKeystrokeShortcutName>
+                <ButtonName type="string">ButtonUp</ButtonName>
+                <Keystroke type="kestring"><![CDATA[r]]></Keystroke>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">9</ButtonFunction>
+                <ButtonName type="string">ButtonLeft</ButtonName>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+                <Modifier type="kestring"><![CDATA[&shift;]]></Modifier>
+                <Usage type="map">
+                  <EModifiers type="map">
+                    <Count type="integer">1</Count>
+                    <Last type="string">Thu Jun 23 16:05:41 2016</Last>
+                  </EModifiers>
+                </Usage>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">9</ButtonFunction>
+                <ButtonName type="string">ButtonDown</ButtonName>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+                <Modifier type="kestring"><![CDATA[&alt;]]></Modifier>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ButtonFunction type="integer">8</ButtonFunction>
+                <ButtonKeystrokeShortcutName type="string">저장</ButtonKeystrokeShortcutName>
+                <ButtonName type="string">ButtonHome</ButtonName>
+                <Keystroke type="kestring"><![CDATA[&control;s]]></Keystroke>
+                <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+              </ArrayElement>
+            </TabletControlsButtonsArray>
+            <TabletControlsModButtonsArray type="array"/>
+            <TouchRingShowButtonHUD type="bool">false</TouchRingShowButtonHUD>
+          </ArrayElement>
+        </TabletControlContainerArray>
+        <TabletFlags type="map">
+          <CalibrationApplied1 type="bool">true</CalibrationApplied1>
+          <ShowCalibrationReminder0 type="bool">true</ShowCalibrationReminder0>
+          <ShowCalibrationReminder1 type="bool">true</ShowCalibrationReminder1>
+          <ShowCalibrationReminder2 type="bool">true</ShowCalibrationReminder2>
+          <ShowCalibrationReminder3 type="bool">true</ShowCalibrationReminder3>
+          <ShowToggleWarning type="bool">true</ShowToggleWarning>
+        </TabletFlags>
+        <TabletMode type="integer">1</TabletMode>
+        <TabletName type="string">Cintiq 13HD</TabletName>
+        <TabletOn1Off0 type="bool">true</TabletOn1Off0>
+        <TabletPhysicallyOn type="bool">true</TabletPhysicallyOn>
+        <TabletPopupMenuArray type="array">
+          <ArrayElement type="map">
+            <ApplicationAssociated type="integer">0</ApplicationAssociated>
+            <PopUpFontName type="string"/>
+            <PopUpFontSize type="integer">12</PopUpFontSize>
+            <PopupMenuItemsArray type="array">
+              <ArrayElement type="map">
+                <PopUpFunction type="integer">2</PopUpFunction>
+                <PopupFunctionName type="string"/>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <PopUpFunction type="integer">3</PopUpFunction>
+                <PopupFunctionName type="string"/>
+              </ArrayElement>
+            </PopupMenuItemsArray>
+          </ArrayElement>
+          <ArrayElement type="map">
+            <ApplicationAssociated type="integer">3</ApplicationAssociated>
+            <PopUpFontName type="string"/>
+            <PopUpFontSize type="integer">12</PopUpFontSize>
+            <PopupMenuItemsArray type="array">
+              <ArrayElement type="map">
+                <PopUpFunction type="integer">2</PopUpFunction>
+                <PopupFunctionName type="string"/>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <PopUpFunction type="integer">3</PopUpFunction>
+                <PopupFunctionName type="string"/>
+              </ArrayElement>
+            </PopupMenuItemsArray>
+          </ArrayElement>
+        </TabletPopupMenuArray>
+        <TabletTransducerArray type="array">
+          <ArrayElement type="map">
+            <ApplicationAssociated type="integer">0</ApplicationAssociated>
+            <DefaultTransName type="string">\~98:0</DefaultTransName>
+            <DoubleClickDistance type="double">2.000000</DoubleClickDistance>
+            <DoubleClickOnOff type="bool">true</DoubleClickOnOff>
+            <DoubleClickTime type="integer">500</DoubleClickTime>
+            <TiltSensitivity type="integer">384</TiltSensitivity>
+            <TransducerButtonArray type="array"/>
+            <TransducerEraserSettings type="map">
+              <ButtonFunction type="integer">14</ButtonFunction>
+              <ButtonName type="string">eraser</ButtonName>
+              <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+              <LowerPressureThreshold type="integer">127</LowerPressureThreshold>
+              <PressureCurveControlPoint type="string">143 0 1371 777 2047 2047</PressureCurveControlPoint>
+              <PressureResolution type="integer">2047</PressureResolution>
+              <PressureSafteyMargin type="integer">2</PressureSafteyMargin>
+              <UpperPressureThreshold type="integer">143</UpperPressureThreshold>
+              <Usage type="map">
+                <EAutoErase type="map">
+                  <Count type="integer">5367</Count>
+                  <Last type="string">Sat Jul 16 03:15:49 2016</Last>
+                </EAutoErase>
+                <MaxForStroke type="map">
+                  <L25 type="integer">1</L25>
+                  <L90 type="integer">1</L90>
+                  <Last type="string">Sat Jul 16 03:15:51 2016</Last>
+                  <M95 type="integer">1</M95>
+                </MaxForStroke>
+              </Usage>
+            </TransducerEraserSettings>
+            <TransducerID type="map">
+              <Design type="integer">22</Design>
+              <SerialNumber type="integer">1451235776</SerialNumber>
+              <Type type="integer">18434</Type>
+            </TransducerID>
+            <TransducerLowerButtonSettings type="map">
+              <ButtonFunction type="integer">8</ButtonFunction>
+              <ButtonKeystrokeShortcutName type="string">확대</ButtonKeystrokeShortcutName>
+              <ButtonName type="string">barrel</ButtonName>
+              <Keystroke type="kestring"><![CDATA[&rsqbracket;]]></Keystroke>
+              <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+              <Usage type="map">
+                <EKeystrokes type="map">
+                  <Count type="integer">496</Count>
+                  <Last type="string">Tue Jul 12 21:58:33 2016</Last>
+                </EKeystrokes>
+                <ERightClick type="map">
+                  <Count type="integer">16</Count>
+                  <Last type="string">Fri May 20 04:09:57 2016</Last>
+                </ERightClick>
+              </Usage>
+            </TransducerLowerButtonSettings>
+            <TransducerName type="string">\~98:0</TransducerName>
+            <TransducerTipButtonSettings type="map">
+              <ButtonFunction type="integer">1</ButtonFunction>
+              <ButtonName type="string">tip</ButtonName>
+              <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+              <LowerPressureThreshold type="integer">127</LowerPressureThreshold>
+              <PressureCurveControlPoint type="string">143 0 1371 777 2047 2047</PressureCurveControlPoint>
+              <PressureResolution type="integer">2047</PressureResolution>
+              <PressureSafteyMargin type="integer">2</PressureSafteyMargin>
+              <UpperPressureThreshold type="integer">143</UpperPressureThreshold>
+              <Usage type="map">
+                <ELeftClick type="map">
+                  <Count type="integer">31740</Count>
+                  <Last type="string">Sat Jul 16 03:16:28 2016</Last>
+                </ELeftClick>
+                <MaxForStroke type="map">
+                  <L25 type="integer">1</L25>
+                  <L33 type="integer">2</L33>
+                  <L50 type="integer">4</L50>
+                  <L60 type="integer">3</L60>
+                  <L70 type="integer">1</L70>
+                  <L80 type="integer">2</L80>
+                  <L95 type="integer">1</L95>
+                  <Last type="string">Sat Jul 16 03:16:30 2016</Last>
+                </MaxForStroke>
+              </Usage>
+            </TransducerTipButtonSettings>
+            <TransducerType type="integer">98</TransducerType>
+            <TransducerUpperButtonSettings type="map">
+              <ButtonFunction type="integer">8</ButtonFunction>
+              <ButtonKeystrokeShortcutName type="string">축소</ButtonKeystrokeShortcutName>
+              <ButtonName type="string">barrel2</ButtonName>
+              <Keystroke type="kestring"><![CDATA[[]]></Keystroke>
+              <LockScreenQuickNote type="bool">false</LockScreenQuickNote>
+              <Usage type="map">
+                <EKeystrokes type="map">
+                  <Count type="integer">494</Count>
+                  <Last type="string">Tue Jul 12 21:57:19 2016</Last>
+                </EKeystrokes>
+                <ELeftDoubleClick type="map">
+                  <Count type="integer">17</Count>
+                  <Last type="string">Mon Apr 25 21:45:56 2016</Last>
+                </ELeftDoubleClick>
+              </Usage>
+            </TransducerUpperButtonSettings>
+            <WinUseInk type="bool">true</WinUseInk>
+          </ArrayElement>
+        </TabletTransducerArray>
+        <TabletType type="integer">24</TabletType>
+        <TabletXDimension type="integer">59552</TabletXDimension>
+        <TabletYDimension type="integer">33848</TabletYDimension>
+      </ArrayElement>
+    </TabletArray>
+    <TabletAwareApplicationInterface type="map">
+      <NormalizedMaxPressure type="integer">1023</NormalizedMaxPressure>
+    </TabletAwareApplicationInterface>
+    <WDCPrefs type="map">
+      <SelectedTablet type="integer">0</SelectedTablet>
+      <WindowPosition type="map">
+        <Bottom type="integer">1032</Bottom>
+        <Epsilon type="integer">0</Epsilon>
+        <Left type="integer">0</Left>
+        <Right type="integer">1920</Right>
+        <Top type="integer">0</Top>
+      </WindowPosition>
+      <WindowState type="integer">0</WindowState>
+    </WDCPrefs>
+    <WindowsInterface type="map">
+      <OnScreenInterface type="map">
+        <Panels type="array">
+          <ArrayElement type="map">
+            <Defaults type="map">
+              <PanelAtCursor type="bool">true</PanelAtCursor>
+              <PanelESize type="integer">4</PanelESize>
+              <PanelLayout type="integer">6</PanelLayout>
+              <PanelPinState type="bool">false</PanelPinState>
+            </Defaults>
+            <PanelAtCursor type="bool">true</PanelAtCursor>
+            <PanelESize type="integer">4</PanelESize>
+            <PanelID type="string">레디얼메뉴</PanelID>
+            <PanelKeys type="array">
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">브러시 패널</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&f5;]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">브러시 패널</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&f5;]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">저장</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&control;s]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">저장</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&control;s]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">Tab</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&tab;]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">Tab</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&tab;]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">한 단계 뒤로</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&alt;&control;z]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">한 단계 뒤로</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&alt;&control;z]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">한 단계 앞으로</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&shift;&control;z]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">한 단계 앞으로</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&shift;&control;z]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">캡처 창</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&alt;&snapshot;]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">캡처 창</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&alt;&snapshot;]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">31</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">31</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">53</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">53</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+            </PanelKeys>
+            <PanelLayout type="integer">6</PanelLayout>
+            <PanelLocation type="map">
+              <x type="integer">496</x>
+              <y type="integer">644</y>
+            </PanelLocation>
+            <PanelName type="string">레디얼메뉴</PanelName>
+            <PanelPinState type="bool">false</PanelPinState>
+          </ArrayElement>
+          <ArrayElement type="map">
+            <Defaults type="map">
+              <PanelAtCursor type="bool">false</PanelAtCursor>
+              <PanelESize type="integer">3</PanelESize>
+              <PanelLayout type="integer">1</PanelLayout>
+              <PanelPinState type="bool">true</PanelPinState>
+            </Defaults>
+            <PanelAtCursor type="bool">false</PanelAtCursor>
+            <PanelESize type="integer">3</PanelESize>
+            <PanelID type="string">브러시 툴</PanelID>
+            <PanelKeys type="array">
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">브러시 사이즈 +</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&rsqbracket;]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">true</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">브러시 사이즈 +</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&rsqbracket;]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">true</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">레이어 혼합 +</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[v&shift;=]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">true</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">레이어 혼합 +</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[v&shift;=]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">true</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">0</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">0</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">0</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">0</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">브러시 사이즈 -</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[[]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">true</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">브러시 사이즈 -</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[[]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">true</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">레이어 혼합 -</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[v&shift;-]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">true</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">레이어 혼합 -</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[v&shift;-]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">true</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">0</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">0</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">0</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">0</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+            </PanelKeys>
+            <PanelLayout type="integer">1</PanelLayout>
+            <PanelName type="string">브러시 툴</PanelName>
+            <PanelPinState type="bool">true</PanelPinState>
+          </ArrayElement>
+          <ArrayElement type="map">
+            <Defaults type="map">
+              <PanelAtCursor type="bool">false</PanelAtCursor>
+              <PanelESize type="integer">3</PanelESize>
+              <PanelLayout type="integer">0</PanelLayout>
+              <PanelPinState type="bool">false</PanelPinState>
+            </Defaults>
+            <PanelAtCursor type="bool">false</PanelAtCursor>
+            <PanelESize type="integer">3</PanelESize>
+            <PanelID type="string">앱 바로가기</PanelID>
+            <PanelKeys type="array">
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">복사</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&control;c]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">복사</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&control;c]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">36</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">36</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">페이지 위로</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&pageup;]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">페이지 위로</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&pageup;]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">입력취소</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&control;z]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">입력취소</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&control;z]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">붙여넣기</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&control;v]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">붙여넣기</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&control;v]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">{Alt}{Tab}</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&alt;&tab;]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">35</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">페이지 아래로</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&pagedown;]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">페이지 아래로</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&pagedown;]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">찾기</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&control;f]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">찾기</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&control;f]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+            </PanelKeys>
+            <PanelLayout type="integer">0</PanelLayout>
+            <PanelName type="string">앱 바로가기</PanelName>
+            <PanelPinState type="bool">false</PanelPinState>
+          </ArrayElement>
+          <ArrayElement type="map">
+            <Defaults type="map">
+              <PanelAtCursor type="bool">false</PanelAtCursor>
+              <PanelESize type="integer">3</PanelESize>
+              <PanelLayout type="integer">2</PanelLayout>
+              <PanelPinState type="bool">false</PanelPinState>
+            </Defaults>
+            <PanelAtCursor type="bool">false</PanelAtCursor>
+            <PanelESize type="integer">3</PanelESize>
+            <PanelID type="string">와콤 스크린 키</PanelID>
+            <PanelKeys type="array">
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">62</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">62</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">53</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">53</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">63</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">63</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">0</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">0</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">52</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">52</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">0</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">0</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">42</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">42</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">31</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">31</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+            </PanelKeys>
+            <PanelLayout type="integer">2</PanelLayout>
+            <PanelName type="string">와콤 스크린 키</PanelName>
+            <PanelPinState type="bool">false</PanelPinState>
+          </ArrayElement>
+          <ArrayElement type="map">
+            <Defaults type="map">
+              <PanelAtCursor type="bool">false</PanelAtCursor>
+              <PanelESize type="integer">3</PanelESize>
+              <PanelLayout type="integer">2</PanelLayout>
+              <PanelPinState type="bool">false</PanelPinState>
+            </Defaults>
+            <PanelAtCursor type="bool">false</PanelAtCursor>
+            <PanelESize type="integer">3</PanelESize>
+            <PanelID type="string">포토샵 드로잉</PanelID>
+            <PanelKeys type="array">
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">저장</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&control;s]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">저장</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&control;s]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">0</ControlCommand>
+                <ControlKeyName type="string"/>
+                <ControlKeys type="kestring"/>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">0</ControlCommand>
+                  <ControlKeyName type="string"/>
+                  <ControlKeys type="kestring"/>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">한 단계 뒤로</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&alt;&control;z]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">한 단계 뒤로</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&alt;&control;z]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">브러시</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[B]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">브러시</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[B]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">펜</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[P]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">펜</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[P]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">스탬프 복제</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[S]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">스탬프 복제</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[S]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">라소</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[L]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">라소</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[L]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">패널 감추기</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&shift;&tab;]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">패널 감추기</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&shift;&tab;]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+            </PanelKeys>
+            <PanelLayout type="integer">2</PanelLayout>
+            <PanelName type="string">포토샵 드로잉</PanelName>
+            <PanelPinState type="bool">false</PanelPinState>
+          </ArrayElement>
+          <ArrayElement type="map">
+            <Defaults type="map">
+              <PanelAtCursor type="bool">false</PanelAtCursor>
+              <PanelESize type="integer">3</PanelESize>
+              <PanelLayout type="integer">2</PanelLayout>
+              <PanelPinState type="bool">false</PanelPinState>
+            </Defaults>
+            <PanelAtCursor type="bool">false</PanelAtCursor>
+            <PanelESize type="integer">3</PanelESize>
+            <PanelID type="string">포토샵 컬러리스트</PanelID>
+            <PanelKeys type="array">
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">컬러 패널</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&f6;]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">컬러 패널</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&f6;]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">선택해제</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&control;d]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">선택해제</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&control;d]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">화면에 맞추기</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&control;0]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">화면에 맞추기</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&control;0]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">실제 픽셀</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&control;&alt;0]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">실제 픽셀</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&control;&alt;0]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">저장</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&control;s]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">저장</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&control;s]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">다른 이름으로 저장하기</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&shift;&control;s]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">다른 이름으로 저장하기</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&shift;&control;s]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">채우기</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&shift;&f5;]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">채우기</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&shift;&f5;]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+              <ArrayElement type="map">
+                <ControlAmount type="double">1.000000</ControlAmount>
+                <ControlCommand type="integer">8</ControlCommand>
+                <ControlKeyName type="string">Esc</ControlKeyName>
+                <ControlKeys type="kestring"><![CDATA[&esc;]]></ControlKeys>
+                <ControlModifiers type="kestring"/>
+                <ControlPanelID type="string"/>
+                <ControlRepeat type="bool">false</ControlRepeat>
+                <ControlRunApp type="string"/>
+                <ControlRunName type="string"/>
+                <Defaults type="map">
+                  <ControlAmount type="double">1.000000</ControlAmount>
+                  <ControlCommand type="integer">8</ControlCommand>
+                  <ControlKeyName type="string">Esc</ControlKeyName>
+                  <ControlKeys type="kestring"><![CDATA[&esc;]]></ControlKeys>
+                  <ControlModifiers type="kestring"/>
+                  <ControlPanelID type="string"/>
+                  <ControlRepeat type="bool">false</ControlRepeat>
+                  <ControlRunApp type="string"/>
+                  <ControlRunName type="string"/>
+                </Defaults>
+              </ArrayElement>
+            </PanelKeys>
+            <PanelLayout type="integer">2</PanelLayout>
+            <PanelName type="string">포토샵 컬러리스트</PanelName>
+            <PanelPinState type="bool">false</PanelPinState>
+          </ArrayElement>
+        </Panels>
+      </OnScreenInterface>
+      <ScreenMacroInterface type="map">
+        <PopUpFontName type="string"/>
+        <PopUpFontSize type="integer">12</PopUpFontSize>
+        <PopUpUseAppMenu type="bool">false</PopUpUseAppMenu>
+      </ScreenMacroInterface>
+    </WindowsInterface>
+  </PenFile>
+  <TouchFile type="map">
+    <TDManager type="map">
+      <AdvancedGesturesEnabled type="bool">true</AdvancedGesturesEnabled>
+      <GesturesEnabled type="bool">true</GesturesEnabled>
+      <GesturesF1F2TimeoutMS type="integer">400</GesturesF1F2TimeoutMS>
+      <GesturesPanScrollHysteresisMM type="integer">3</GesturesPanScrollHysteresisMM>
+      <GesturesRotateHysteresisDeg type="integer">5</GesturesRotateHysteresisDeg>
+      <GesturesZoomHysteresisMM type="integer">10</GesturesZoomHysteresisMM>
+      <PHRCEnabled type="bool">true</PHRCEnabled>
+      <PHRCLevel type="integer">1</PHRCLevel>
+      <TAFClickF1F2TimeoutMS type="integer">500</TAFClickF1F2TimeoutMS>
+    </TDManager>
+    <TouchPrefsVersion type="integer">4</TouchPrefsVersion>
+  </TouchFile>
+  <Version type="string">1.0</Version>
+</root>
